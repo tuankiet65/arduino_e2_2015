@@ -69,7 +69,7 @@ void motorMove(unsigned char motor, unsigned char direction){
 	}
 }
 
-void motorTurn(unsigned char direction){
+void motorSetDirection(unsigned char direction){
 	switch (direction){
 		case M_LEFT:
 			motorMove(M_A, M_FORWARD);
@@ -78,6 +78,14 @@ void motorTurn(unsigned char direction){
 		case M_RIGHT:
 			motorMove(M_A, M_BACKWARD);
 			motorMove(M_B, M_FORWARD);
+			break;
+		case M_FORWARD:
+			motorMove(M_A, M_FORWARD);
+			motorMove(M_B, M_FORWARD);
+			break;
+		case M_BACKWARD:
+			motorMove(M_A, M_BACKWARD);
+			motorMove(M_B, M_BACKWARD);
 			break;
 	}
 }
