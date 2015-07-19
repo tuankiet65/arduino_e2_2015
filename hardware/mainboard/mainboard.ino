@@ -8,31 +8,14 @@
 #define I2C_SET_SPEED 17
 #define I2C_SUCCESS 18
 #define I2C_FAIL 19
-
+char *name;
 void setup() {
 	Serial.begin(9600);
-	motorI2CInitInterface();
-	while (!motorI2CSendCommand(I2C_INIT, 255)) {
-		Serial.println("Fail sending I2C_INIT");
-		delay(1000);
-	}
-	while (!motorI2CSendCommand(I2C_SET_SPEED, 255)) {
-		Serial.println("Fail sending I2C_CHANGE_SPEED");
-		delay(1000);
-	}
+	IRRemoteInit();
+	LCDInit();
+	LCDInputName(&name);
+	Serial.write(name, 12);
 }
 
 void loop() {
-	switch(getStatus()){
-		case M_LEFT:
-			motorI2CSendCommand(I2C_SET_DIRECTION, M_LEFT);
-			break;
-		case M_RIGHT:
-			motorI2CSendCommand(I2C_SET_DIRECTION, M_LEFT);
-			break;
-		case INLINE:
-			motorI2CSendCommand(I2C_SET_DIRECTION, M_FORWARD);
-			break;
-	}
-	delay(100);
 }

@@ -1,11 +1,11 @@
 #include <digitalWriteFast.h>
 // L298N pin on Arduino
 #define M_ENA 10
-#define M_IN1 4
-#define M_IN2 5
+#define M_IN1 8
+#define M_IN2 9
 #define M_ENB 11
-#define M_IN3 6
-#define M_IN4 7
+#define M_IN3 12
+#define M_IN4 13
 #define M_A 8 // Motor 1 number
 #define M_B 9 // Motor 2 number
 // Motor direction

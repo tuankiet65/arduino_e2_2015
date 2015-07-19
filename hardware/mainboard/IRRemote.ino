@@ -4,7 +4,7 @@
 
 #include <IRremote.h>
 #define UNDEF 255
-#define ZERO 99
+#define ZERO 100
 #define ONE_HUNDRED_PLUS 100
 #define TWO_HUNDRED_PLUS 200
 #define ONE 101
@@ -107,10 +107,12 @@ unsigned char IRRemoteDecode(unsigned long value) {
 	}
 }
 
-unsigned char IRRemoteReceive() {
+unsigned char IRRemoteReceive(unsigned char *result) {
 	decode_results tmpRes;
 	if(IR.decode(&tmpRes)) {
 		IR.resume();
-		return IRRemoteDecode(tmpRes.value);
-	} else return UNDEF;
+		Serial.println(IRRemoteDecode(tmpRes.value));
+		*result=IRRemoteDecode(tmpRes.value);
+		return 1;
+	} else return 0;
 }

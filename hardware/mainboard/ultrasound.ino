@@ -1,6 +1,6 @@
 #include <digitalWriteFast.h>
-#define US_TRIGGER_PIN 8
-#define US_ECHO_PIN 9
+#define US_TRIGGER_PIN 2
+#define US_ECHO_PIN 3
 
 void ultrasoundInit(){
 	pinModeFast(US_TRIGGER_PIN, OUTPUT);
