@@ -16,7 +16,6 @@ unsigned char result_arr[2];
 
 void setup() {
 	Serial.begin(9600);
-	Serial.println("Okay");
 	Wire.begin(I2C_BUS);
 	Wire.onReceive(i2cCommandHandler);
 	Wire.onRequest(i2cRequestHandler);
@@ -25,7 +24,7 @@ void setup() {
 void i2cCommandHandler(int numBytes) {
 	unsigned char request, param;
 	if (numBytes != 2) {
-		Serial.print("Not enough bytes: need 2, got ");
+		Serial.print(F("Not enough bytes: need 2, got "));
 		Serial.println(numBytes);
 		setResult(request, I2C_FAIL);
 		return;
@@ -34,41 +33,41 @@ void i2cCommandHandler(int numBytes) {
 	param = Wire.read();
 	switch (request) {
 	case I2C_INIT:
-		Serial.println("Received I2C_INIT");
+		Serial.println(F("Received I2C_INIT"));
 		motorInit();
 		break;
 	case I2C_SET_DIRECTION:
 		switch (param) {
 		case M_LEFT:
-			Serial.println("Received I2C_SET_DIRECTION M_LEFT");
+			Serial.println(F("Received I2C_SET_DIRECTION M_LEFT"));
 			motorSetDirection(M_LEFT);
 			break;
 		case M_RIGHT:
-			Serial.println("Received I2C_SET_DIRECTION M_RIGHT");
+			Serial.println(F("Received I2C_SET_DIRECTION M_RIGHT"));
 			motorSetDirection(M_RIGHT);
 			break;
 		case M_FORWARD:
-			Serial.println("Received I2C_SET_DIRECTION M_FORWARD");
+			Serial.println(F("Received I2C_SET_DIRECTION M_FORWARD"));
 			motorSetDirection(M_FORWARD);
 			break;
 		case M_BACKWARD:
-			Serial.println("Received I2C_SET_DIRECTION M_BACKWARD");
+			Serial.println(F("Received I2C_SET_DIRECTION M_BACKWARD"));
 			motorSetDirection(M_BACKWARD);
 			break;
 		default:
-			Serial.println("Received I2C_TURN with invalid param");
+			Serial.println(F("Received I2C_SET_DIRECTION with invalid param"));
 			setResult(request, I2C_FAIL);
 			return;
 			break;
 		}
 		break;
 	case I2C_SET_SPEED:
-		Serial.print("Received I2C_SET_SPEED ");
+		Serial.print(F("Received I2C_SET_SPEED "));
 		Serial.println(param);
-		motorSetSpeed(255);
+		motorSetSpeed(param);
 		break;
 	}
-	Serial.println("Write success");
+	Serial.println(F("Write success"));
 	setResult(request, I2C_SUCCESS);
 }
 
@@ -81,5 +80,4 @@ void i2cRequestHandler() {
 	Wire.write(result_arr, 2);
 }
 
-void loop() {
-}
+void loop() {}

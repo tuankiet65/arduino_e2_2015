@@ -13,7 +13,7 @@
 void motorI2CInitInterface() {
 	Wire.begin();
 }
-
+//checked
 int motorI2CSendCommand(unsigned char command, unsigned char param) {
 	int waitTime = 0;
 	Wire.beginTransmission(I2C_BUS);

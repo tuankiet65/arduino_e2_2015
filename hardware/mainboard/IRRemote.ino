@@ -25,7 +25,7 @@
 #define VOL_DOWN 116
 #define VOL_UP 117
 #define EQ 118
-#define IR_RECV_PIN 4
+#define IR_RECV_PIN 8
 
 IRrecv IR(IR_RECV_PIN);
 

@@ -14,8 +14,6 @@
 #define M_LEFT 12
 #define M_RIGHT 13
 
-int current_speed = 0;
-
 void motorInit() {
 	pinModeFast(M_ENA, OUTPUT);
 	pinModeFast(M_IN1, OUTPUT);
@@ -23,21 +21,16 @@ void motorInit() {
 	pinModeFast(M_ENB, OUTPUT);
 	pinModeFast(M_IN3, OUTPUT);
 	pinModeFast(M_IN4, OUTPUT);
-	motorStop();
-	motorSetSpeed(0);
-}
-
-void motorStop() {
 	digitalWriteFast(M_IN1, LOW);
 	digitalWriteFast(M_IN2, LOW);
 	digitalWriteFast(M_IN3, LOW);
 	digitalWriteFast(M_IN4, LOW);
+	motorSetSpeed(0);
 }
 
 void motorSetSpeed(unsigned char speed) {
 	analogWrite(M_ENA, speed);
 	analogWrite(M_ENB, speed);
-	current_speed = speed;
 }
 
 void motorMove(unsigned char motor, unsigned char direction) {
@@ -45,24 +38,24 @@ void motorMove(unsigned char motor, unsigned char direction) {
 	case M_A:
 		switch (direction) {
 		case M_FORWARD:
-			digitalWriteFast(M_IN1, LOW);
-			digitalWriteFast(M_IN2, HIGH);
-			break;
-		case M_BACKWARD:
 			digitalWriteFast(M_IN1, HIGH);
 			digitalWriteFast(M_IN2, LOW);
+			break;
+		case M_BACKWARD:
+			digitalWriteFast(M_IN1, LOW);
+			digitalWriteFast(M_IN2, HIGH);
 			break;
 		}
 		break;
 	case M_B:
 		switch (direction) {
 		case M_FORWARD:
-			digitalWriteFast(M_IN3, LOW);
-			digitalWriteFast(M_IN4, HIGH);
-			break;
-		case M_BACKWARD:
 			digitalWriteFast(M_IN3, HIGH);
 			digitalWriteFast(M_IN4, LOW);
+			break;
+		case M_BACKWARD:
+			digitalWriteFast(M_IN3, LOW);
+			digitalWriteFast(M_IN4, HIGH);
 			break;
 		}
 		break;
