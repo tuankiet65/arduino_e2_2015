@@ -1,16 +1,15 @@
 #include "SPI.h"
 #include "MFRC522.h"
 #define SS_PIN 10
-#define RST_PIN 10
+#define RST_PIN 9
+
 MFRC522 mfrc522(SS_PIN, RST_PIN);
 
-// checked
 void RFIDInit(){
 	SPI.begin();
 	mfrc522.PCD_Init();
 }
 
-// checked
 unsigned char RFIDGetCardUID(unsigned long *uid){
 	if (!mfrc522.PICC_IsNewCardPresent())
 		return 0;

@@ -111,7 +111,6 @@ unsigned char IRRemoteReceive(unsigned char *result) {
 	decode_results tmpRes;
 	if(IR.decode(&tmpRes)) {
 		IR.resume();
-		Serial.println(IRRemoteDecode(tmpRes.value));
 		*result=IRRemoteDecode(tmpRes.value);
 		return 1;
 	} else return 0;

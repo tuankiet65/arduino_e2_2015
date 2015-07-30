@@ -2,6 +2,7 @@
     "arduino_folder": "/home/tuankiet65/arduino-1.6.4", 
     "baudrate": 4, 
     "board": 0, 
+    "extra_flag": "-O2", 
     "full_compilation": false, 
     "platform": 1, 
     "platform_name": "Arduino AVR Boards", 

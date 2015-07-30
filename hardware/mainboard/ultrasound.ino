@@ -1,6 +1,7 @@
 #include <digitalWriteFast.h>
-#define US_TRIGGER_PIN 7
-#define US_ECHO_PIN 6
+#define US_TRIGGER_PIN 6
+#define US_ECHO_PIN 7
+#define US_MAX_DISTANCE 40
 
 void ultrasoundInit(){
 	pinModeFast(US_TRIGGER_PIN, OUTPUT);
@@ -21,18 +22,23 @@ unsigned long ultrasoundRead(){
 		return result;
 }
 
-float ultrasoundReadCm(){
-	unsigned long result=ultrasoundRead();
+unsigned char ultrasoundHasObstacle(){
+	unsigned char i, samplingRate=0;
+	unsigned long result=0, tmp;
+	float resultCm;
+	for (i=0; i<10; i++){
+		tmp=ultrasoundRead();
+		if (tmp){
+			result+=tmp;
+			samplingRate++;
+		}
+	}
+	result/=samplingRate;
 	if (result==0)
-		return -1.0f;
-	else
-		return float(ultrasoundRead())/58;
-}
-
-float ultrasoundReadInch(){
-	unsigned long result=ultrasoundRead();
-	if (result==0)
-		return -1.0f;
-	else
-		return float(ultrasoundRead())/148;
+		return 0;
+	else {
+		resultCm=float(result)/58;
+		return (resultCm<=20);
+	}
+		
 }

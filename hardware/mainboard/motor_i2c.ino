@@ -10,12 +10,13 @@
 #define I2C_SUCCESS 18
 #define I2C_FAIL 19
 
-void motorI2CInitInterface() {
+void motorI2CInit() {
 	Wire.begin();
+	motorI2CSendCommand(I2C_INIT, 255);
 }
-//checked
-int motorI2CSendCommand(unsigned char command, unsigned char param) {
-	int waitTime = 0;
+
+unsigned char motorI2CSendCommand(unsigned char command, unsigned char param) {
+	unsigned char waitTime = 0;
 	Wire.beginTransmission(I2C_BUS);
 	Wire.write(command);
 	Wire.write(param);
