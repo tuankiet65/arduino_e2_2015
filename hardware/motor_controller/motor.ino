@@ -1,11 +1,11 @@
 #include <digitalWriteFast.h>
 // L298N pin on Arduino
 #define M_ENA 10
-#define M_IN1 8
-#define M_IN2 9
+#define M_IN1 2
+#define M_IN2 3
 #define M_ENB 11
-#define M_IN3 12
-#define M_IN4 13
+#define M_IN3 4
+#define M_IN4 5
 #define M_A 8 // Motor 1 number
 #define M_B 9 // Motor 2 number
 // Motor direction
@@ -64,21 +64,21 @@ void motorMove(unsigned char motor, unsigned char direction) {
 
 void motorSetDirection(unsigned char direction) {
 	switch (direction) {
-	case M_LEFT:
-		motorMove(M_A, M_FORWARD);
-		motorMove(M_B, M_BACKWARD);
-		break;
-	case M_RIGHT:
-		motorMove(M_A, M_BACKWARD);
-		motorMove(M_B, M_FORWARD);
-		break;
-	case M_FORWARD:
-		motorMove(M_A, M_FORWARD);
-		motorMove(M_B, M_FORWARD);
-		break;
-	case M_BACKWARD:
-		motorMove(M_A, M_BACKWARD);
-		motorMove(M_B, M_BACKWARD);
-		break;
+		case M_LEFT:
+			motorMove(M_A, M_FORWARD);
+			motorMove(M_B, M_BACKWARD);
+			break;
+		case M_RIGHT:
+			motorMove(M_A, M_BACKWARD);
+			motorMove(M_B, M_FORWARD);
+			break;
+		case M_FORWARD:
+			motorMove(M_A, M_FORWARD);
+			motorMove(M_B, M_FORWARD);
+			break;
+		case M_BACKWARD:
+			motorMove(M_A, M_BACKWARD);
+			motorMove(M_B, M_BACKWARD);
+			break;
 	}
 }

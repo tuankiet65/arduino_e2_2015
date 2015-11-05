@@ -1,8 +1,10 @@
+// !PID
 #include <digitalWriteFast.h>
-#define IN1 A0 // Top
-#define IN2 A1 //near 1st to lcd
-#define IN3 A2 //near 2nd to lcd
-#define IN4 A3 //near 3rd to lcd
+#define IN1 2// Sensor T1 (left)
+#define IN2 3 // Sensor T2 (left)
+#define IN3 4 // Sensor T3 (Top)
+#define IN4 5 // Sensor T4 (right)
+#define IN5 6 // Sensor T5 (right)
 // Motor direction
 #define M_FORWARD 10
 #define M_LEFT 12
@@ -13,25 +15,20 @@ void lineSensorInit() {
 	pinModeFast(IN2, INPUT);
 	pinModeFast(IN3, INPUT);
 	pinModeFast(IN4, INPUT);
+	pinModeFast(IN5, INPUT);
 }
 
 int lineSensorRead(){
-	int ir1=0, ir2=0, ir3=0, ir4=0;
-	unsigned char i;
-	for (i=0; i<10; i++){
-		ir1+=analogRead(IN1);
-		ir2+=analogRead(IN2);
-		ir3+=analogRead(IN3);
-		ir4+=analogRead(IN4);
-	}
-	ir1/=10;
-	ir2/=10;
-	ir3/=10;
-	ir4/=10;
-	if (ir1>1010)
+	unsigned char ir1, ir2, ir3, ir4, ir5;
+	ir1=digitalReadFast(IN1);
+	ir2=digitalReadFast(IN2);
+	ir3=digitalReadFast(IN3);
+	ir4=digitalReadFast(IN4);
+	ir5=digitalReadFast(IN5);
+	if (ir3)
 		return M_FORWARD;
-	else if (ir4>1010)
+	else if (ir1 || ir2)
 		return M_LEFT;
-	else if (ir2<1000)
+	else if (ir4 || ir5)
 		return M_RIGHT;
 }

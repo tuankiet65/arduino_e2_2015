@@ -1,6 +1,6 @@
 #include <digitalWriteFast.h>
-#define US_TRIGGER_PIN 6
-#define US_ECHO_PIN 7
+#define US_TRIGGER_PIN 11
+#define US_ECHO_PIN 12
 #define US_MAX_DISTANCE 40
 
 void ultrasoundInit(){
@@ -39,6 +39,5 @@ unsigned char ultrasoundHasObstacle(){
 	else {
 		resultCm=float(result)/58;
 		return (resultCm<=20);
-	}
-		
+	}		
 }

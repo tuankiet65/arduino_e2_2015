@@ -4,6 +4,7 @@
 #include "LiquidCrystal.h"
 #include "LiquidCrystal_I2C.h"
 #define LCD_BACKPACK_I2C_BUS 0x27
+#define LCD_BACKPACK_I2C_BUS 0x27
 #define UNDEF 255
 #define ZERO 100
 #define ONE_HUNDRED_PLUS 100
@@ -38,6 +39,13 @@ void LCDInit(){
 	lcd.clear();
 }
 
+void LCDMessage(const char msg1[]="", const char msg2[]=""){
+	lcd.clear();
+	lcd.print(msg1);
+	lcd.setCursor(0, 1);
+	lcd.print(msg2);
+}
+
 unsigned char NineKeypadChar(unsigned char number, unsigned char *numPress, unsigned char capsLock){
 	const unsigned char PROGMEM char_pos[]={0, 33, 65, 68, 71, 74, 77, 80, 84, 87, 91};
 	if (number==1)
@@ -53,10 +61,9 @@ unsigned char NineKeypadChar(unsigned char number, unsigned char *numPress, unsi
 	return (char_pos[number]+*numPress-1);
 }
 
-void interfaceInputName(char name[], const char msg[]){
+void interfaceInputName(char name[], const char msg[]=""){
 	unsigned char cursorPos=0, button, lastButton=0, pressCount=0, capsLock=0, i;
-	lcd.clear();
-	lcd.print(msg);
+	LCDMessage(msg);
 	lcd.setCursor(0, 1);
 	lcd.blink();
 	while (1){
@@ -153,26 +160,16 @@ void interfaceRunSetup(){
 	unsigned char ir_result, speed=EEPROMGetSpeed(), hasFinished=0;
 	unsigned long uid, initialUid, currTime, lastUid;
 	char name[13]={0};
-	lcd.clear();
-	lcd.print(F("Setup required"));
-	lcd.setCursor(0, 1);
-	lcd.print(F("Press any key"));
+	LCDMessage("Setup required", "Press any key");
 	while (!IRRemoteReceive(&ir_result) || ir_result==255);
-	lcd.clear();
-	lcd.print(F("Place robot into"));
-	lcd.setCursor(0, 1);
-	lcd.print(F("initial position"));
+	LCDMessage("Place robot into", "initial position");
 	while (!RFIDGetCardUID(&uid));
-	lcd.clear();
 	interfaceInputName(name, "Enter name:");
-	lcd.clear();
-	lcd.print(F("Saving"));
 	EEPROMAddDest(uid, name);
 	initialUid=uid;
 	lastUid=uid;
 	motorI2CSendCommand(I2C_SET_DIRECTION, M_FORWARD);
-	lcd.clear();
-	lcd.print(F("Discovering"));
+	LCDMessage("Discovering...");
 	interfaceSetSpeed(&speed, 255);
 	while (!hasFinished){
 		motorI2CSendCommand(I2C_SET_DIRECTION, lineSensorRead());
@@ -180,17 +177,13 @@ void interfaceRunSetup(){
 		while (millis()-currTime<200){
 			if (ultrasoundHasObstacle()){
 				motorI2CSendCommand(I2C_SET_SPEED, 0);
-				lcd.clear();
-				lcd.print(F("Detected"));
-				lcd.setCursor(0, 1);
-				lcd.print(F("obstacle"));
+				LCDMessage("Obstacle", "detected");
 				while (ultrasoundHasObstacle()){
 					piezoErrorSound();
 					delay(1000);
 				}
 				piezoNoTone();
-				lcd.clear();
-				lcd.print(F("Discovering"));
+				LCDMessage("Discovering...");
 				interfaceSetSpeed(&speed, 255);
 			}
 			if (IRRemoteReceive(&ir_result))
@@ -205,23 +198,16 @@ void interfaceRunSetup(){
 						hasFinished=1;
 					else {
 						lastUid=uid;
-						lcd.clear();
 						interfaceInputName(name, "Enter name: ");
-						lcd.clear();
-						lcd.print(F("Saving"));
 						EEPROMAddDest(uid, name);
-						lcd.clear();
-						lcd.print(F("Discovering"));
+						LCDMessage("Discovering...");
 						interfaceSetSpeed(&speed, 255);
 					}
 				}
 			}
 		}
 	}
-	lcd.clear();
-	lcd.print(F("Setup completed"));
-	lcd.setCursor(0, 1);
-	lcd.print(F("Press any key"));
+	LCDMessage("Setup completed", "Press any key");
 	while (!IRRemoteReceive(&ir_result) || ir_result==255);
 }
 
@@ -230,12 +216,19 @@ void interfacePrintDestName(struct destStruct dest){
 	lcd.print(dest.name);
 }
 
+unsigned char interfaceWarning(const char msg_line1[]="", const char msg_line2[]=""){
+	unsigned char ir_result;
+	LCDMessage(msg_line1, msg_line2);
+	while (!IRRemoteReceive(&ir_result) || ir_result==255);
+	piezoOkaySound();
+	return (ir_result==EQ);
+}
+
 void mainInterface(){
 	struct destStruct dest, baseDest=EEPROMReadDest(1);
 	unsigned char ir_result, curr_dest=1, numberOfDest=EEPROMNumberOfDest();
 	char name[13]={0};
-	lcd.clear();
-	lcd.print("Choose your dest");
+	LCDMessage("Choose dest:");
 	dest=EEPROMReadDest(curr_dest);
 	interfacePrintDestName(dest);
 	while (1){
@@ -243,14 +236,10 @@ void mainInterface(){
 		piezoOkaySound();
 		switch (ir_result){
 			case ZERO:
-				if (interfaceWarning("Erase current", "data?")){
-					lcd.clear();
-					lcd.print("Wiping...");
+				if (interfaceWarning("Erase all data?")){
+					LCDMessage("Erasing...");
 					EEPROMWipe();
-					lcd.clear();
-					lcd.print("Done.");
-					lcd.setCursor(0, 1);
-					lcd.print("Please restart.");
+					LCDMessage("Erase completed", "Please reset");
 					while (1);
 				}
 			case ONE:
@@ -262,8 +251,9 @@ void mainInterface(){
 			case SEVEN:
 			case EIGHT:
 			case NINE:
-				if (ir_result-100<=curr_dest){
-					curr_dest=ir_result-100;
+				ir_result-=100;
+				if (ir_result<=curr_dest){
+					curr_dest=ir_result;
 					dest=EEPROMReadDest(curr_dest);
 					interfacePrintDestName(dest);
 				}
@@ -281,34 +271,29 @@ void mainInterface(){
 			case CHANNEL_DOWN:
 			case PREV:
 				curr_dest--;
-				if (!curr_dest)
+				if (curr_dest<1)
 					curr_dest=numberOfDest;
 				dest=EEPROMReadDest(curr_dest);
 				interfacePrintDestName(dest);
 				break;
 			case PLAY_PAUSE:
 				move(dest);
-				lcd.clear();
-				lcd.print(F("Waiting..."));
+				LCDMessage("Waiting...");
 				while (!IRRemoteReceive(&ir_result) || ir_result==255);
 				move(baseDest);
 				return;
 			case EQ:
 				interfaceInputName(name, "Enter new name:");
 				EEPROMModifyDestName(curr_dest, name);
-				lcd.clear();
-				lcd.print("Choose your dest");
+				LCDMessage("Choost dest:");
 				dest=EEPROMReadDest(curr_dest);
 				interfacePrintDestName(dest);
 				break;
 			case CHANNEL:
-				if (interfaceWarning("Delete this dest?", "")){
+				if (interfaceWarning("Delete this dest?")){
 					EEPROMRemoveDest(curr_dest);
 					if (numberOfDest==1){
-						lcd.clear();
-						lcd.print("You need to");
-						lcd.setCursor(0, 1);
-						lcd.print("reboot");
+						LCDMessage("No dests found", "Restart to setup");
 						while (1);
 					}
 				}
@@ -317,22 +302,10 @@ void mainInterface(){
 	}
 }
 
-unsigned char interfaceWarning(const char msg_line1[], const char msg_line2[]){
-	unsigned char ir_result;
-	lcd.clear();
-	lcd.print(msg_line1);
-	lcd.setCursor(0, 1);
-	lcd.print(msg_line2);
-	while (!IRRemoteReceive(&ir_result) || ir_result==255);
-	piezoOkaySound();
-	return (ir_result==EQ);
-}
-
 void move(struct destStruct dest){
 	unsigned char speed=EEPROMGetSpeed(), ir_result, hasFinished=0	;
 	unsigned long uid;
-	lcd.clear();
-	lcd.print("Moving");
+	LCDMessage("Moving...");
 	motorI2CSendCommand(I2C_SET_DIRECTION, M_FORWARD);
 	interfaceSetSpeed(&speed, 255);
 	while (!hasFinished){
@@ -341,17 +314,13 @@ void move(struct destStruct dest){
 		while (millis()-curr_time<200){
 			if (ultrasoundHasObstacle()){
 				motorI2CSendCommand(I2C_SET_SPEED, 0);
-				lcd.clear();
-				lcd.print(F("Detected"));
-				lcd.setCursor(0, 1);
-				lcd.print(F("obstacle"));
+				LCDMessage("Obstacle", "detected");
 				while (ultrasoundHasObstacle()){
 					piezoErrorSound();
 					delay(1000);
 				}
 				piezoNoTone();
-				lcd.clear();
-				lcd.print(F("Discovering"));
+				LCDMessage("Moving...");
 				interfaceSetSpeed(&speed, 255);
 			}
 			if (IRRemoteReceive(&ir_result))
@@ -365,17 +334,4 @@ void move(struct destStruct dest){
 			}
 		}
 	}
-}
-
-// debugging function
-void LCDLine(int ir1, int ir2, int ir3, int ir4){
-	lcd.clear();
-	lcd.setCursor(5, 0);
-	lcd.print(ir1);
-	lcd.setCursor(0, 1);
-	lcd.print(ir2);
-	lcd.setCursor(5, 1);
-	lcd.print(ir3);
-	lcd.setCursor(10, 1);
-	lcd.print(ir4);
 }

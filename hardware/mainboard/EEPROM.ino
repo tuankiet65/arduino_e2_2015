@@ -14,7 +14,7 @@ struct destStruct {
 
 void EEPROMWipe(){
 	int i;
-	for (i=0; i<1024; i++)
+	for (i=0; i<EEPROM.length(); i++)
 		EEPROM.write(i, 0);
 }
 
