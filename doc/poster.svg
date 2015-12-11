@@ -719,9 +719,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="4753.8256"
-     inkscape:cy="2453.2717"
+     inkscape:zoom="0.25000001"
+     inkscape:cx="4426.6572"
+     inkscape:cy="1929.9002"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1023,7 +1023,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4356"
-       transform="matrix(0.85931691,0,0,0.85931691,731.65628,588.66671)"><flowRegion
+       transform="matrix(0.85931691,0,0,0.85931691,731.65628,604.66671)"><flowRegion
          id="flowRegion4358"><use
            x="0"
            y="0"
@@ -1033,7 +1033,7 @@
            height="100%"
            transform="matrix(1.0754911,0,0,1.0754911,-382.63974,-313.65875)" /></flowRegion><flowPara
          id="flowPara4362"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức khi phát hiện có vật cản.</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức khi phát hiện có vật cản</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2)"
        id="rect5147-4"
        width="1237.3085"
@@ -1090,8 +1090,8 @@
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-6"
-       width="1768.1743"
-       height="173.15474"
+       width="1739.8901"
+       height="184.15756"
        x="4432.6128"
        y="2661.491" />
     <text
@@ -1110,7 +1110,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot6313"
-       transform="matrix(0.94470156,0,0,0.94470156,318.47016,381.40655)"><flowRegion
+       transform="matrix(0.94470156,0,0,0.94470156,291.15645,356.2409)"><flowRegion
          id="flowRegion6315"><use
            x="0"
            y="0"
@@ -1121,7 +1121,7 @@
          id="flowPara6319"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.85353851px;font-family:Lato;-inkscape-font-specification:Lato">Là bộ phận quan trọng nhất của xe, cảm biến dò line hồng ngoại giúp xe di chuyển theo một đường thẳng màu đen đã vạch sẵn trên mặt đất dựa trên nguyên lý phản xạ ánh sáng</flowPara></flowRoot>    <g
        id="g6332"
-       transform="matrix(0.79063362,0,0,0.79246659,713.49231,937.18432)">
+       transform="matrix(0.79063362,0,0,0.79246659,687.7522,956.5468)">
       <path
          style="fill:#f5f5f5;fill-opacity:1"
          d="m 4889.7637,3837.3918 0,-471.25 453.75,0 453.75,0 0,471.25 0,471.25 -453.75,0 -453.75,0 0,-471.25 z"
@@ -1166,28 +1166,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4650.9053"
-       y="4367.7402"
+       x="4625.165"
+       y="4387.1025"
        id="text6496"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="4650.9053"
-         y="4367.7402"
+         x="4625.165"
+         y="4387.1025"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato"
          id="tspan6502">Vạch trắng phản</tspan><tspan
          sodipodi:role="line"
-         x="4650.9053"
-         y="4461.4902"
+         x="4625.165"
+         y="4480.8525"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato"
          id="tspan6506">xạ ánh sáng nhiều</tspan><tspan
          sodipodi:role="line"
-         x="4650.9053"
-         y="4555.2402"
+         x="4625.165"
+         y="4574.6025"
          id="tspan6500"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato" /></text>
     <g
        id="g6519"
-       transform="translate(-128.6518,-268.94026)">
+       transform="translate(-154.39191,-249.57777)">
       <path
          style="fill:#f5f5f5;fill-opacity:1"
          d="m 5581.2529,4212.6514 0,-371.25 91.0378,0 c 82.6294,0 90.9852,0.137 90.4688,1.4829 -0.313,0.8156 -0.5691,20.2219 -0.5691,43.125 0,40.503 -0.05,41.6421 -1.808,41.6421 -4.4336,0 -4.7545,1.5819 -4.7545,23.4375 0,17.3783 0.2238,20.7149 1.4732,21.9643 1.1169,1.1169 3.476,1.4732 9.7543,1.4732 l 8.281,0 2.7927,4.9485 c 4.4735,7.9264 12.7684,14.4173 20.5787,16.103 1.6698,0.3604 3.2768,1.0447 3.5709,1.5206 0.7755,1.2547 3.6238,1.0668 9.1543,-0.6038 11.7998,-3.5643 18.5116,-8.4579 23.3436,-17.0198 l 2.7928,-4.9485 6.8748,0 c 10.2176,0 9.8212,0.9459 9.8212,-23.4375 0,-17.3782 -0.2238,-20.7149 -1.4732,-21.9643 -0.8103,-0.8103 -2.0759,-1.4732 -2.8125,-1.4732 -1.1406,0 -1.3393,-6.1773 -1.3393,-41.6421 0,-22.9031 -0.2561,-42.3094 -0.5691,-43.125 -0.5013,-1.3066 0.9198,-1.4829 11.9532,-1.4833 l 12.5222,-4e-4 -0.2452,41.016 c -0.1348,22.5588 -0.438,41.5434 -0.6737,42.1879 -0.2357,0.6446 -1.623,1.1719 -3.083,1.1719 -1.4599,0 -3.1607,0.5062 -3.7794,1.125 -1.4875,1.4875 -1.6363,127.4178 -0.1539,130.1879 0.7599,1.4197 -3.4115,18.7981 -19.1689,79.8602 -26.9435,104.4099 -52.0234,202.1271 -62.0187,241.6394 -4.9891,19.7223 -8.7473,32.801 -9.6306,33.5156 -1.1342,0.9175 -19.1878,1.1719 -83.1555,1.1719 -77.9656,0 -81.7778,0.078 -83.2583,1.7144 -1.3975,1.5442 -1.5516,6.093 -1.5516,45.7922 0,41.5112 0.1,44.1681 1.7144,45.6293 1.5861,1.4354 19.9041,1.5516 244.5422,1.5516 234.057,0 242.8838,-0.062 244.3793,-1.7144 1.3975,-1.5442 1.5516,-6.093 1.5516,-45.7922 0,-41.5112 -0.1,-44.1681 -1.7144,-45.6293 -1.5416,-1.3951 -5.9624,-1.5523 -43.8282,-1.5583 -23.1625,0 -44.8705,-0.2671 -48.24,-0.5854 l -6.1264,-0.5788 -3.4754,-13.7115 c -8.4579,-33.3688 -28.2913,-109.8703 -67.7969,-261.5059 -11.0577,-42.4433 -19.8609,-77.5644 -19.5627,-78.0469 0.2982,-0.4825 1.1352,-0.8773 1.8601,-0.8773 0.7249,0 1.7547,-0.816 2.2884,-1.8134 0.6413,-1.1983 0.9705,-23.1396 0.9705,-64.6875 0,-61.3049 -0.046,-62.9202 -1.8469,-64.721 -1.7739,-1.7739 -1.8572,-3.4955 -2.1094,-43.5941 l -0.2624,-41.7472 138.5156,3e-4 138.5156,4e-4 0,371.25 0,371.25 -301.875,0 -301.875,0 0,-371.25 z m 234.2552,-227.5886 c 0.486,-0.9081 1.8096,-2.4892 2.9414,-3.5134 1.1318,-1.0243 2.6583,-3.0235 3.3922,-4.4427 0.9105,-1.7607 2.0712,-2.5803 3.654,-2.5803 1.2759,0 2.3197,0.2937 2.3197,0.6527 0,1.9136 -5.5121,8.1674 -8.577,9.7309 -4.3582,2.2235 -4.8493,2.2436 -3.7303,0.1528 z m -44.8802,-99.0535 c 0,-22.9031 -0.2561,-42.3094 -0.5691,-43.125 -0.506,-1.3188 1.321,-1.4829 16.5066,-1.4829 15.1856,0 17.0126,0.1641 16.5066,1.4829 -0.313,0.8156 -0.5691,20.2219 -0.5691,43.125 l 0,41.6421 -15.9375,0 -15.9375,0 0,-41.6421 z m 40.3125,0 c 0,-22.9031 -0.2561,-42.3094 -0.5691,-43.125 -0.5049,-1.3158 1.1971,-1.4829 15.1004,-1.4829 13.9032,0 15.6052,0.1671 15.1003,1.4829 -0.313,0.8156 -0.5691,20.2219 -0.5691,43.125 l 0,41.6421 -14.5312,0 -14.5313,0 0,-41.6421 z m 69.375,-0.9375 c 0,-22.3875 -0.2561,-41.3719 -0.5691,-42.1875 -0.4983,-1.2986 0.7546,-1.4829 10.0782,-1.4833 l 10.6472,-4e-4 -0.2452,41.016 c -0.1348,22.5588 -0.438,41.5434 -0.6737,42.1879 -0.3039,0.8312 -3.163,1.1719 -9.833,1.1719 l -9.4044,0 0,-40.7046 z"
@@ -1227,23 +1227,23 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="5501.2046"
-       y="4378.3071"
+       x="5475.4644"
+       y="4397.6694"
        id="text6496-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="5501.2046"
-         y="4378.3071"
+         x="5475.4644"
+         y="4397.6694"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato"
          id="tspan6502-9">Vạch đen phản</tspan><tspan
          sodipodi:role="line"
-         x="5501.2046"
-         y="4472.0571"
+         x="5475.4644"
+         y="4491.4194"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato"
          id="tspan6506-2">xạ ánh sáng ít</tspan><tspan
          sodipodi:role="line"
-         x="5501.2046"
-         y="4565.8071"
+         x="5475.4644"
+         y="4585.1694"
          id="tspan6500-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato" /></text>
   </g>
@@ -1598,6 +1598,23 @@
        x="7102.1392"
        y="-2400.5171"
        transform="matrix(0.81667878,0.57709252,0.8978456,-0.44031044,0,0)" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.2549305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3894.3703,5154.6358 c 1200.1577,-186.15 1200.1577,-186.15 1200.1577,-186.15 l 0,0"
+       id="path10180-8-2"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:299.14892578px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4663.1001"
+       y="4927.4785"
+       id="text10886-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan10888-7-2"
+         x="4663.1001"
+         y="4927.4785"
+         style="font-size:99.71631622px">Đầu đọc MFC522</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:6.28688669;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12181-1"
