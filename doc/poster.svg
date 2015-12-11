@@ -820,8 +820,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
-     inkscape:cx="4740.0842"
-     inkscape:cy="3378.6493"
+     inkscape:cx="3342.0823"
+     inkscape:cy="2272.912"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1006,7 +1006,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4205-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.7014389px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Robot này có thể được ứng dụng trong các nhà máy, công xưởng có nhu cầu về việc vận chuyển, hoặc các nhà máy có ít nhân công, cần tập trung nhân công vào việc sản xuất</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.7014389px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Robot này có thể được ứng dụng trong các nhà máy, công xưởng có nhu cầu về việc vận chuyển, hoặc các nhà máy có ít nhân công, cần tập trung nhân công vào việc sản xuất.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4183-7"
@@ -1131,31 +1131,31 @@
            height="100%"
            transform="matrix(1.0754911,0,0,1.0754911,-382.63974,-313.65875)" /></flowRegion><flowPara
          id="flowPara4362"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.37150574px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start">Cảm biến siêu âm sử dụng sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức khi phát hiện có vật cản</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.37150574px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start">Cảm biến siêu âm sử dụng sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức khi phát hiện có vật cản.</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2)"
        id="rect5147-4"
-       width="1237.3085"
-       height="526.69476"
-       x="2024.6476"
-       y="2613.1729" />
+       width="1417.323"
+       height="496.06308"
+       x="1948.8186"
+       y="2622.0474" />
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-2"
-       width="1240.1578"
-       height="177.16531"
-       x="2024.6476"
-       y="2613.1729" />
+       width="1417.323"
+       height="177.16536"
+       x="1948.8186"
+       y="2622.0474" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2069.9023"
-       y="2747.9116"
+       x="1999.1917"
+       y="2756.397"
        id="text4348-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4350-7"
-         x="2069.9023"
-         y="2747.9116"
+         x="1999.1917"
+         y="2756.397"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Màn hình LCD</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -1171,7 +1171,7 @@
            height="100%"
            transform="matrix(1.163715,0,0,1.163715,6892.8146,-747.52283)" /></flowRegion><flowPara
          id="flowPara4362-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Màn hình LCD 16x2 dùng để hiển thị giao diên người dùng</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.37150574px;font-family:Lato;-inkscape-font-specification:Lato">Màn hình LCD 16x2 dùng để hiển thị giao diên người dùng.</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-69)"
        id="rect5147-7"
        width="1771.6536"
@@ -1210,7 +1210,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara6319"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.85353851px;font-family:Lato;-inkscape-font-specification:Lato">Là bộ phận quan trọng nhất của xe, cảm biến dò line hồng ngoại giúp xe di chuyển theo một đường thẳng màu đen đã vạch sẵn trên mặt đất dựa trên nguyên lý phản xạ ánh sáng</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:105.85353851px;font-family:Lato;-inkscape-font-specification:Lato">Là bộ phận quan trọng nhất của xe, cảm biến dò line hồng ngoại giúp xe di chuyển theo một đường thẳng màu đen đã vạch sẵn trên mặt đất dựa trên nguyên lý phản xạ ánh sáng.</flowPara></flowRoot>    <g
        id="g6332"
        transform="matrix(0.79063362,0,0,0.79246659,687.7522,956.5468)">
       <path
