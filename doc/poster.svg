@@ -798,11 +798,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50000001"
-     inkscape:cx="2949.4069"
-     inkscape:cy="1855.4149"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="3911.741"
+     inkscape:cy="2965.8296"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1351,34 +1351,20 @@
          x="2163.3984"
          y="3493.9116"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Đầu đọc thẻ RFID</tspan></text>
-    <text
+    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2338.5825"
-       y="4039.3701"
-       id="text7377"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7379"
-         x="2338.5825"
-         y="4039.3701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat">Đầu đọc thẻ RFID sử dụng công nghệ</tspan><tspan
-         sodipodi:role="line"
-         x="2338.5825"
-         y="4164.3701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat"
-         id="tspan7383">sóng vô tuyến để đọc thẻ RFID gắn ở</tspan><tspan
-         sodipodi:role="line"
-         x="2338.5825"
-         y="4289.3701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat"
-         id="tspan7387">mỗi điểm dừng, từ đó robot có thể nhận </tspan><tspan
-         sodipodi:role="line"
-         x="2338.5825"
-         y="4414.3701"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat"
-         id="tspan7389">biết các điểm dừng theo số serial trên thẻ.</tspan></text>
-  </g>
+       id="flowRoot7411"
+       transform="matrix(0.93478415,0,0,0.93478415,176.65766,449.04292)"><flowRegion
+         id="flowRegion7413"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5147-4-5"
+           id="use7415"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara7417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.97657013px;font-family:Lato;-inkscape-font-specification:Lato">Đầu đọc thẻ RFID sử dụng công nghệ sóng vô tuyến để đọc thẻ RFID gắn ở mỗi điểm dừng, từ đó robot có thể nhận  biết các điểm dừng theo số serial trên thẻ.</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -1666,6 +1652,15 @@
          id="path5846-2"
          inkscape:connector-curvature="0" />
     </g>
+    <rect
+       style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:6.28688669;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12181-1"
+       width="313.95422"
+       height="88.908844"
+       x="2262.7632"
+       y="-6170.9443"
+       ry="0"
+       transform="matrix(0.84748899,-0.53081297,-0.21480554,-0.97665684,0,0)" />
     <ellipse
        style="display:inline;opacity:0.97000002;fill:#d5fff6;fill-opacity:0.47337281;stroke:#000000;stroke-width:1.07015526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6230-81"
@@ -1731,19 +1726,10 @@
        y="-2400.5171"
        transform="matrix(0.81667878,0.57709252,0.8978456,-0.44031044,0,0)" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.53522801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7173)"
-       d="m 3713.9999,5080.7762 c -599.3153,-716.8854 -599.3153,-716.8854 -599.3153,-716.8854 l 0,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.97302628;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7173)"
+       d="M 3713.2298,5083.2761 C 3365.666,4460.6562 3365.666,4460.6562 3365.666,4460.6562 l 0,0"
        id="path10180-8-2"
        inkscape:connector-curvature="0" />
-    <rect
-       style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:6.28688669;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect12181-1"
-       width="313.95422"
-       height="88.908844"
-       x="2262.7632"
-       y="-6170.9443"
-       ry="0"
-       transform="matrix(0.84748899,-0.53081297,-0.21480554,-0.97665684,0,0)" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.52597141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5279)"
        d="m 3187.8272,2304.0082 -283.1534,276.323"
