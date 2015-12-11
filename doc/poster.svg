@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30472135"
-     inkscape:cx="895.27059"
-     inkscape:cy="3083.2946"
+     inkscape:zoom="0.43094106"
+     inkscape:cx="788.14654"
+     inkscape:cy="1010.8442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -407,7 +407,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199"
-       transform="matrix(0.95432923,0,0,0.95459863,51.209758,604.16694)"><flowRegion
+       transform="matrix(0.95432923,0,0,0.95459863,28.237951,538.53321)"><flowRegion
          id="flowRegion4201"><use
            x="0"
            y="0"
@@ -416,7 +416,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4205"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato">Việc vận chuyển hàng từ trước đến nay đều do một bộ phận nhân công đảm nhiệm, tốn chi phí và nguồn nhân công của doanh nghiêệp. Nếu chúng ta có thể thay thế lượng nhân công này bằng robot thì sẽ tối ưu hóa chi phí và sự phân bố nhân công</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.77085114px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Việc vận chuyển hàng từ trước đến nay đều do một bộ phận nhân công đảm nhiệm, tốn chi phí và nguồn nhân công của doanh nghiệp. Nếu chúng ta có thể thay thế lượng nhân công này bằng robot thì sẽ tối ưu hóa chi phí và sự phân bố nhân công</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4183"
@@ -466,5 +466,5 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4205-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec eros sit amet neque interdum venenatis scelerisque a urna. Sed sagittis at magna vitae vulputate. Proin aliquam quis ligula sit amet rutrum. Nunc sodales eleifend aliquam. Cras auctor ut enim id condimentum. Vivamus finibus arcu et commodo sagittis. Vivamus in dolor est. Pellentesque ac posuere tortor.</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato">Sau quá trình nghiên cứu, thực hiện, hiện nay robot đã hoạt động, có thể vận chuyển được hàng, linh kiện tự động. Giờ đây, việc vận chuyển các kiện hàng đã được robot đảm nhiệm và chỉ cần một nhân công để phụ trách và kiểm sooát</flowPara></flowRoot>  </g>
 </svg>
