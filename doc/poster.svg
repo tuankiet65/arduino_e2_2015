@@ -102,62 +102,6 @@
   </g>
   <g
      inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="Main panel (layout)"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#666666;stroke:#000000"
-       id="rect4184"
-       width="4606.2993"
-       height="5669.2915"
-       x="1771.6533"
-       y="7.4676427e-005" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Right panel (layout)"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       style="display:inline;fill:#808080;stroke:#000000;stroke-width:1.04862297"
-       id="rect4169-8"
-       width="1771.6293"
-       height="5668.5527"
-       x="6377.5107"
-       y="0.43341589" />
-    <rect
-       style="display:inline;fill:#b3b3b3;stroke:#000000"
-       id="rect4179-8"
-       width="1629.9213"
-       height="5492.126"
-       x="6448.4551"
-       y="101.99421" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Left panel (layout)"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       style="fill:#808080;stroke:#000000;stroke-width:1.04862297"
-       id="rect4169"
-       width="1771.6293"
-       height="5668.5527"
-       x="0.02406738"
-       y="0.73883724" />
-    <rect
-       style="fill:#cccccc;stroke:#000000"
-       id="rect4179"
-       width="1629.9213"
-       height="5492.126"
-       x="70.968452"
-       y="102.29974" />
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel (content)"
      style="display:inline">
