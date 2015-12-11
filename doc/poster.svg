@@ -22,6 +22,110 @@
    inkscape:export-ydpi="11.043478">
   <defs
      id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5889"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5891" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5783"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5785"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5683"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5685" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5349"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5351"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5279"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:collect="always">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path5281" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5243"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5245"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4819"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 2834.6458 : 1"
@@ -273,7 +377,8 @@
        refX="0"
        id="Arrow2Lend-4-4-0"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          id="path6426-2-4-0"
@@ -457,6 +562,134 @@
          result="composite2"
          id="feComposite4741" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4432-6">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4434-88" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4436-9" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4438-46" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset4440-56" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4442-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5439">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5441" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5443" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur5445" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5447" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5449" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4432-69">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4434-3" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4436-7" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4438-3" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset4440-9" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4442-99" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5517">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5519" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5521" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur5523" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5525" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5527" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -466,10 +699,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25000001"
-     inkscape:cx="3625.3247"
-     inkscape:cy="2804.7333"
+     inkscape:cx="2368.8049"
+     inkscape:cy="2828.1852"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer3"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -782,34 +1015,34 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2)"
        id="rect5147-4"
-       width="1240.1578"
-       height="814.96057"
-       x="2341.4314"
-       y="2839.447" />
+       width="1237.3085"
+       height="526.69476"
+       x="2024.6476"
+       y="2613.1729" />
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-2"
        width="1240.1578"
        height="177.16531"
-       x="2341.4314"
-       y="2839.447" />
+       x="2024.6476"
+       y="2613.1729" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2386.6863"
-       y="2974.1858"
+       x="2069.9023"
+       y="2747.9116"
        id="text4348-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4350-7"
-         x="2386.6863"
-         y="2974.1858"
+         x="2069.9023"
+         y="2747.9116"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Màn hình LCD</tspan></text>
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4356-2"
-       transform="matrix(0.85931691,0,0,0.85931691,-5606.3283,868.63317)"><flowRegion
+       transform="matrix(0.85931691,0,0,0.85931691,-5883.1121,872.35901)"><flowRegion
          id="flowRegion4358-6"><use
            x="0"
            y="0"
@@ -817,9 +1050,56 @@
            id="use4360-9"
            width="100%"
            height="100%"
-           transform="matrix(1.163715,0,0,1.163715,6547.4427,-712.93043)" /></flowRegion><flowPara
+           transform="matrix(1.163715,0,0,1.163715,6892.8146,-747.52283)" /></flowRegion><flowPara
          id="flowPara4362-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Màn hình LCD 16x2 dùng để hiển thị giao diên người dùng</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4356-9"
+       transform="matrix(0.85931691,0,0,0.85931691,-3821.7918,-756.32552)"><flowRegion
+         id="flowRegion4358-4" /><flowPara
+         id="flowPara4362-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-69)"
+       id="rect5147-7"
+       width="1240.1578"
+       height="814.96057"
+       x="5012.897"
+       y="2880.7559" />
+    <rect
+       style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4346-6"
+       width="1240.1578"
+       height="177.16531"
+       x="5012.897"
+       y="2880.7559" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4356-8"
+       transform="matrix(0.85931691,0,0,0.85931691,-3513.7918,1045.6744)"><flowRegion
+         id="flowRegion4358-7"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5147-7"
+           id="use4360-93"
+           width="100%"
+           height="100%"
+           transform="matrix(1.163715,0,0,1.163715,4098.362,-925.9383)" /></flowRegion><flowPara
+         id="flowPara4362-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="5047.8843"
+       y="3016.6602"
+       id="text4348-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4350-0"
+         x="5047.8843"
+         y="3016.6602"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Cảm biến dò line hồng ngoại</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -998,12 +1278,12 @@
        ry="0"
        transform="matrix(0.86417331,0.50319428,-0.18318404,0.98307864,0,0)" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.20018673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.20018673;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5349)"
        d="m 4148.0779,2276.0793 c 473.2464,-325.1395 473.2464,-325.1395 473.2464,-325.1395 l 0,0"
        id="path10180"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.42500782;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.42500782;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend);marker-start:url(#marker5889)"
        d="m 3562.9978,1567.4696 c 859.6427,408.9276 859.6427,408.9276 859.6427,408.9276"
        id="path6399"
        inkscape:connector-curvature="0" />
@@ -1021,7 +1301,7 @@
          y="-12.687386"
          style="font-size:109.37123108px">36cm</tspan></text>
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.50264978;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-4-0)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.50264978;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend-4-4-0);marker-start:url(#marker5783)"
        d="m 2731.3629,1862.706 c 714.7044,-310.1662 714.7044,-310.1662 714.7044,-310.1662"
        id="path6399-0"
        inkscape:connector-curvature="0" />
@@ -1068,14 +1348,14 @@
        ry="38.191071"
        transform="matrix(1,0,-0.20800341,0.9781281,0,0)" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.81056118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10188-8-4)"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.81056118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10188-8-4);marker-start:url(#marker5683)"
        d="m 2764.1494,2144.2568 c 0,-207.7229 0,-207.7229 0,-207.7229"
        id="path13764"
        inkscape:connector-curvature="0" />
     <g
        id="g4948-4"
        style="display:inline;opacity:0.97000002"
-       transform="matrix(-0.71696257,0,0,-0.6337567,7896.3255,8621.3901)">
+       transform="matrix(-1.1064989,0,0,-0.97808602,10197.181,11075.289)">
       <path
          d="m 5023.4643,6756.9515 676.327,506.828 816.7872,-605.6577 -673.3421,-342.5922 z"
          style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
@@ -1108,116 +1388,104 @@
          inkscape:connector-curvature="0" />
     </g>
     <ellipse
-       style="display:inline;opacity:0.97000002;fill:#d5fff6;fill-opacity:0.47337281;stroke:#000000;stroke-width:0.69341356;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.97000002;fill:#d5fff6;fill-opacity:0.47337281;stroke:#000000;stroke-width:1.07015526;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6230-81"
-       cx="3209.437"
-       cy="-4401.8398"
-       rx="23.166262"
-       ry="26.05831"
+       cx="3438.1062"
+       cy="-4513.3242"
+       rx="35.752831"
+       ry="40.216171"
        transform="matrix(1,0,-0.20800341,-0.9781281,0,0)" />
     <ellipse
-       style="display:inline;opacity:0.97000002;fill:#d5fff6;fill-opacity:0.47337281;stroke:#000000;stroke-width:0.79403812;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.97000002;fill:#d5fff6;fill-opacity:0.47337281;stroke:#000000;stroke-width:1.22545063;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6230-8-1"
-       cx="3092.155"
-       cy="-4373.2827"
-       rx="27.288788"
-       ry="29.007879"
+       cx="3286.0591"
+       cy="-4463.0537"
+       rx="42.115189"
+       ry="44.768288"
        transform="matrix(1,0,-0.22010454,-0.97547629,0,0)" />
     <rect
-       style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:2.43712234;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#5599ff;fill-opacity:1;stroke:#000000;stroke-width:3.76124668;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect14738"
-       width="262.49777"
-       height="37.656067"
-       x="6253.3057"
-       y="-1789.1556"
+       width="405.11667"
+       height="58.115162"
+       x="6440.8765"
+       y="-1860.1573"
        transform="matrix(0.84753289,0.53074287,0.81147473,-0.58438751,0,0)" />
     <ellipse
-       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:2.5999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:4.01261806;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14740"
-       cx="157.89622"
-       cy="5859.8823"
-       rx="10"
-       ry="7.5"
+       cx="161.50316"
+       cy="6056.2324"
+       rx="15.433146"
+       ry="11.574861"
        transform="matrix(0.7642828,-0.64488123,0.64488123,0.7642828,0,0)" />
     <ellipse
-       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:2.5999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:4.01261806;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14740-4"
-       cx="175.6389"
-       cy="5914.2114"
-       rx="10"
-       ry="7.5"
+       cx="188.88573"
+       cy="6140.0791"
+       rx="15.433146"
+       ry="11.574861"
        transform="matrix(0.7642828,-0.64488123,0.64488123,0.7642828,0,0)" />
     <ellipse
-       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:2.5999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:4.01261806;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14740-0"
-       cx="192.437"
-       cy="5965.0874"
-       rx="10"
-       ry="7.5"
+       cx="214.81047"
+       cy="6218.5967"
+       rx="15.433146"
+       ry="11.574861"
        transform="matrix(0.7642828,-0.64488123,0.64488123,0.7642828,0,0)" />
     <ellipse
-       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:2.5999999;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#1c2224;fill-opacity:1;stroke:#000000;stroke-width:4.01261806;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path14740-7"
-       cx="209.28319"
-       cy="6017.2988"
-       rx="10"
-       ry="7.5"
+       cx="240.80943"
+       cy="6299.1753"
+       rx="15.433146"
+       ry="11.574861"
        transform="matrix(0.7642828,-0.64488123,0.64488123,0.7642828,0,0)" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.86584711;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4078.4892,4457.878 c 357.7354,-159.7115 357.7354,-159.7115 357.7354,-159.7115 l 0,0"
-       id="path10180-8"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:193.83534241px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4207.2432"
-       y="4266.3301"
-       id="text10886-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10888-7"
-         x="4207.2432"
-         y="4266.3301"
-         style="font-size:64.61178589px">Cảm biến hồng ngoại</tspan></text>
     <rect
-       style="opacity:1;fill:#000055;fill-opacity:1;stroke:#000000;stroke-width:4.47288561;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000055;fill-opacity:1;stroke:#000000;stroke-width:6.90306997;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect15610"
-       width="78.503326"
-       height="118.93817"
-       x="6503.8447"
-       y="-1832.4801"
+       width="121.15533"
+       height="183.55902"
+       x="6758.2031"
+       y="-2060.9443"
        transform="matrix(0.81667878,0.57709252,0.8978456,-0.44031044,0,0)" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.05291986;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3827.9322,4559.579 c 777.6494,-120.617 777.6494,-120.617 777.6494,-120.617 l 0,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.2549305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3918.3703,4806.6358 c 1200.1577,-186.15 1200.1577,-186.15 1200.1577,-186.15 l 0,0"
        id="path10180-8-2"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:193.83534241px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4326.0352"
-       y="4412.3911"
+       style="font-style:normal;font-weight:normal;font-size:299.14892578px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4687.1001"
+       y="4579.4785"
        id="text10886-1-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan10888-7-2"
-         x="4326.0352"
-         y="4412.3911"
-         style="font-size:64.61178589px">Đầu đọc MFRC522</tspan></text>
+         x="4687.1001"
+         y="4579.4785"
+         style="font-size:99.71631622px">Đầu đọc MFRC522</tspan></text>
     <rect
-       style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:4.07362604;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:6.28688669;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12181-1"
-       width="203.42853"
-       height="57.60902"
-       x="2540.9224"
-       y="-5831.3794"
+       width="313.95422"
+       height="88.908844"
+       x="2367.0327"
+       y="-5871.2974"
        ry="0"
        transform="matrix(0.84748899,-0.53081297,-0.21480554,-0.97665684,0,0)" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.72396469;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3189.0319,2303.6075 -138.4846,412.8889"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.52597141;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker5279)"
+       d="m 3187.8272,2304.0082 -283.1534,276.323"
        id="path4715"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.64023924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="M 4215.2837,4534.8297 4582.4923,3449.4911"
+       id="path4795"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
