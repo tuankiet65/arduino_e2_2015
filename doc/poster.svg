@@ -721,7 +721,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.1767767"
      inkscape:cx="4288.3955"
-     inkscape:cy="1762.9009"
+     inkscape:cy="2667.9975"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1033,7 +1033,7 @@
            height="100%"
            transform="matrix(1.0754911,0,0,1.0754911,-382.63974,-313.65875)" /></flowRegion><flowPara
          id="flowPara4362"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2)"
        id="rect5147-4"
        width="1237.3085"
@@ -1598,23 +1598,6 @@
        x="7102.1392"
        y="-2400.5171"
        transform="matrix(0.81667878,0.57709252,0.8978456,-0.44031044,0,0)" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.2549305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3894.3703,5154.6358 c 1200.1577,-186.15 1200.1577,-186.15 1200.1577,-186.15 l 0,0"
-       id="path10180-8-2"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:299.14892578px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4663.1001"
-       y="4927.4785"
-       id="text10886-1-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10888-7-2"
-         x="4663.1001"
-         y="4927.4785"
-         style="font-size:99.71631622px">Đầu đọc MFRC522</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:6.28688669;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12181-1"
