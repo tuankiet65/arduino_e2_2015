@@ -719,9 +719,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="4677.129"
-     inkscape:cy="2025.6366"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="5042.439"
+     inkscape:cy="1778.52"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1083,8 +1083,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-69)"
        id="rect5147-7"
-       width="1658.1893"
-       height="1743.2126"
+       width="1739.8901"
+       height="1920.3781"
        x="4460.897"
        y="2508.7559" />
     <rect
@@ -1121,7 +1121,7 @@
          id="flowPara6319"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato">Là bộ phận quan trọng nhất của xe, cảm biến dò line hồng ngoại giúp xe di chuyển dựa trên một đường thẳng màu đen đã vạch sẵn trên mặt đất dựa trên nguyên lý phản xạ ánh sáng</flowPara></flowRoot>    <g
        id="g6332"
-       transform="matrix(0.79063362,0,0,0.79246659,699.7522,756.5468)">
+       transform="matrix(0.79063362,0,0,0.79246659,683.7522,748.5468)">
       <path
          style="fill:#f5f5f5;fill-opacity:1"
          d="m 4889.7637,3837.3918 0,-471.25 453.75,0 453.75,0 0,471.25 0,471.25 -453.75,0 -453.75,0 0,-471.25 z"
@@ -1163,6 +1163,28 @@
          id="path6334"
          inkscape:connector-curvature="0" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4621.165"
+       y="4181.1025"
+       id="text6496"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6498"
+         x="4621.165"
+         y="4181.1025"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato">Ánh sáng trắng</tspan><tspan
+         sodipodi:role="line"
+         x="4621.165"
+         y="4274.8525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato"
+         id="tspan6502">phản xạ ánh sáng</tspan><tspan
+         sodipodi:role="line"
+         x="4621.165"
+         y="4368.6025"
+         id="tspan6500"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
