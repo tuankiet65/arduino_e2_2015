@@ -22,6 +22,20 @@
    inkscape:export-ydpi="11.043478">
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7173"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7175"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient6382">
@@ -41,7 +55,8 @@
        refX="0.0"
        refY="0.0"
        orient="auto"
-       inkscape:stockid="Arrow2Lstart">
+       inkscape:stockid="Arrow2Lstart"
+       inkscape:collect="always">
       <path
          transform="scale(1.1) translate(1,0)"
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
@@ -711,6 +726,70 @@
        x2="5173.228"
        y2="3366.1418"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4432-2-2">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4434-8-2" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4436-8-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur4438-4-9" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset4440-5-5" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4442-9-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter7313">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood7315" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite7317" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur7319" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset7321" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite7323" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -720,8 +799,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25000001"
-     inkscape:cx="4426.6572"
-     inkscape:cy="1929.9002"
+     inkscape:cx="3544.3667"
+     inkscape:cy="1289.9002"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1246,6 +1325,32 @@
          y="4585.1694"
          id="tspan6500-8"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:75px;font-family:Lato;-inkscape-font-specification:Lato" /></text>
+    <rect
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2-2)"
+       id="rect5147-4-5"
+       width="1237.3085"
+       height="526.69476"
+       x="2300.1436"
+       y="3737.1729" />
+    <rect
+       style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4346-2-0"
+       width="1240.1578"
+       height="177.16531"
+       x="2300.1436"
+       y="3737.1729" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2345.3984"
+       y="3871.9116"
+       id="text4348-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4350-7-3"
+         x="2345.3984"
+         y="3871.9116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Đầu đọc RFID</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1599,22 +1704,10 @@
        y="-2400.5171"
        transform="matrix(0.81667878,0.57709252,0.8978456,-0.44031044,0,0)" />
     <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.2549305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 3894.3703,5154.6358 c 1200.1577,-186.15 1200.1577,-186.15 1200.1577,-186.15 l 0,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.53522801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7173)"
+       d="m 3713.9999,5080.7762 c -599.3153,-716.8854 -599.3153,-716.8854 -599.3153,-716.8854 l 0,0"
        id="path10180-8-2"
        inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:299.14892578px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4663.1001"
-       y="4927.4785"
-       id="text10886-1-0"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10888-7-2"
-         x="4663.1001"
-         y="4927.4785"
-         style="font-size:99.71631622px">Đầu đọc MFC522</tspan></text>
     <rect
        style="display:inline;opacity:1;fill:#0000d4;fill-opacity:1;stroke:#000000;stroke-width:6.28688669;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12181-1"
