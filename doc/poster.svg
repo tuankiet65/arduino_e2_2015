@@ -798,9 +798,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="4455.777"
-     inkscape:cy="2926.7062"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="2949.4069"
+     inkscape:cy="1855.4149"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1328,29 +1328,29 @@
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2-2)"
        id="rect5147-4-5"
-       width="1588.6335"
-       height="897.72589"
-       x="1948.8186"
+       width="1417.3229"
+       height="1062.9921"
+       x="2125.9839"
        y="3366.1418" />
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-2-0"
-       width="1240.1578"
-       height="177.16531"
-       x="1950.1436"
-       y="3367.1729" />
+       width="1417.3229"
+       height="177.16527"
+       x="2125.9839"
+       y="3366.1418" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2345.3984"
-       y="3871.9116"
+       x="2163.3984"
+       y="3493.9116"
        id="text4348-8-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4350-7-3"
-         x="2345.3984"
-         y="3871.9116"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Đầu đọc RFID</tspan></text>
+         x="2163.3984"
+         y="3493.9116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Đầu đọc thẻ RFID</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
