@@ -699,10 +699,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.25000001"
-     inkscape:cx="2368.8049"
-     inkscape:cy="2828.1852"
+     inkscape:cx="5220.9602"
+     inkscape:cy="2101.6962"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer5"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1062,44 +1062,43 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-69)"
        id="rect5147-7"
-       width="1240.1578"
-       height="814.96057"
-       x="5012.897"
-       y="2880.7559" />
+       width="1658.1893"
+       height="1743.2126"
+       x="4460.897"
+       y="2508.7559" />
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-6"
-       width="1240.1578"
-       height="177.16531"
-       x="5012.897"
-       y="2880.7559" />
-    <flowRoot
+       width="1658.1893"
+       height="184.15756"
+       x="4460.897"
+       y="2508.7559" />
+    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4356-8"
-       transform="matrix(0.85931691,0,0,0.85931691,-3513.7918,1045.6744)"><flowRegion
-         id="flowRegion4358-7"><use
-           x="0"
-           y="0"
-           xlink:href="#rect5147-7"
-           id="use4360-93"
-           width="100%"
-           height="100%"
-           transform="matrix(1.163715,0,0,1.163715,4098.362,-925.9383)" /></flowRegion><flowPara
-         id="flowPara4362-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="5047.8843"
-       y="3016.6602"
+       x="4479.9531"
+       y="2640.4314"
        id="text4348-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4350-0"
-         x="5047.8843"
-         y="3016.6602"
+         id="tspan4350-3"
+         x="4479.9531"
+         y="2640.4314"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Cảm biến dò line hồng ngoại</tspan></text>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6313"
+       transform="translate(21.999999,231.99999)"><flowRegion
+         id="flowRegion6315"><use
+           x="0"
+           y="0"
+           xlink:href="#rect5147-7"
+           id="use6317"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara6319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato">Là bộ phận quan trọng nhất của xe, cảm biến dò line hồng ngoại giúp xe di chuyển dựa trên một đường thẳng đã vạch sẵn trên mặt đất dựa trên nguyên lý phản xạ ánh sáng</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
@@ -1483,8 +1482,8 @@
        id="path4715"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.64023924;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
-       d="M 4215.2837,4534.8297 4582.4923,3449.4911"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.27538681;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
+       d="m 4111.6053,4473.0107 308.1084,-743.2416"
        id="path4795"
        inkscape:connector-curvature="0" />
   </g>
