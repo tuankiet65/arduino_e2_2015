@@ -798,9 +798,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="3544.3667"
-     inkscape:cy="1289.9002"
+     inkscape:zoom="1"
+     inkscape:cx="4455.777"
+     inkscape:cy="2926.7062"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1169,10 +1169,10 @@
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-6"
-       width="1739.8901"
-       height="184.15756"
-       x="4432.6128"
-       y="2661.491" />
+       width="1771.6536"
+       height="177.16539"
+       x="4429.1338"
+       y="2657.4805" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1328,17 +1328,17 @@
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2-2)"
        id="rect5147-4-5"
-       width="1237.3085"
-       height="526.69476"
-       x="2300.1436"
-       y="3737.1729" />
+       width="1588.6335"
+       height="897.72589"
+       x="1948.8186"
+       y="3366.1418" />
     <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346-2-0"
        width="1240.1578"
        height="177.16531"
-       x="2300.1436"
-       y="3737.1729" />
+       x="1950.1436"
+       y="3367.1729" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1351,6 +1351,33 @@
          x="2345.3984"
          y="3871.9116"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Đầu đọc RFID</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2338.5825"
+       y="4039.3701"
+       id="text7377"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7379"
+         x="2338.5825"
+         y="4039.3701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat">Đầu đọc thẻ RFID sử dụng công nghệ</tspan><tspan
+         sodipodi:role="line"
+         x="2338.5825"
+         y="4164.3701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat"
+         id="tspan7383">sóng vô tuyến để đọc thẻ RFID gắn ở</tspan><tspan
+         sodipodi:role="line"
+         x="2338.5825"
+         y="4289.3701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat"
+         id="tspan7387">mỗi điểm dừng, từ đó robot có thể nhận </tspan><tspan
+         sodipodi:role="line"
+         x="2338.5825"
+         y="4414.3701"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lat;-inkscape-font-specification:Lat"
+         id="tspan7389">biết các điểm dừng theo số serial trên thẻ.</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
