@@ -229,9 +229,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="1265.3939"
-     inkscape:cy="3087.3493"
+     inkscape:zoom="0.125"
+     inkscape:cx="3855.5293"
+     inkscape:cy="3543.6827"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -317,16 +317,6 @@
            x="3720.4724"
            y="708.6615" /></flowRegion><flowPara
          id="flowPara4533" /></flowRoot>    <rect
-       style="display:inline;fill:#e6e6e6;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4537"
-       width="4251.9683"
-       height="1948.8188"
-       x="1950.4755"
-       y="1418.0859"
-       ry="1.3953977e-005"
-       inkscape:export-xdpi="11"
-       inkscape:export-ydpi="11" />
-    <rect
        style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4494"
        width="4251.9683"
@@ -334,14 +324,9 @@
        x="1948.8186"
        y="177.16542"
        ry="0" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.43307114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2304.8063,1791.5818 3543.307,0"
-       id="path4539"
-       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4062.7327"
        y="485.23566"
        id="text4496"
@@ -350,27 +335,15 @@
          id="tspan4498"
          x="4062.7327"
          y="485.23566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;">Mô hình robot vận chuyển</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff">Mô hình robot vận chuyển</tspan><tspan
          sodipodi:role="line"
          x="4062.7327"
          y="828.98566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff"
          id="tspan4522">hàng hóa trong kho bãi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3199.7458"
-       y="1701.2301"
-       id="text4541"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4543"
-         x="3199.7458"
-         y="1701.2301"
-         style="font-weight:bold;font-size:187.5px">MÔ HÌNH THIẾT KẾ</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2804.0691"
        y="1107.366"
        id="text4975"
@@ -379,7 +352,7 @@
          id="tspan4977"
          x="2804.0691"
          y="1107.366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Lat;-inkscape-font-specification:Lat;fill:#ffffff;">Hồ Tuấn Kiệt - Nguyễn Lê Lý Bằng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Lat;-inkscape-font-specification:Lat;fill:#ffffff">Hồ Tuấn Kiệt - Nguyễn Lê Lý Bằng</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:0;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4217"
@@ -400,23 +373,6 @@
          x="3198.1914"
          y="3825.5466"
          style="font-weight:bold;font-size:187.5px" /></text>
-    <path
-       sodipodi:type="star"
-       style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path5929"
-       sodipodi:sides="5"
-       sodipodi:cx="3188.9761"
-       sodipodi:cy="7618.1104"
-       sodipodi:r1="638.77875"
-       sodipodi:r2="319.38937"
-       sodipodi:arg1="0.98279372"
-       sodipodi:arg2="1.6111123"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 3543.3068,8149.6064 -367.2037,-212.3662 -383.1156,182.1 88.5001,-414.8563 -291.5766,-308.0925 421.8997,-44.0291 202.9114,-372.5116 172.2483,387.6447 416.9827,77.8677 -315.4445,283.6068 z"
-       inkscape:transform-center-x="-7.9559461"
-       inkscape:transform-center-y="-53.381827" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -460,7 +416,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4205-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.77085114px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Robot này có thể được ứng dụng trong các nhà máy, công xưởng có nhu cầu về việc vận chuyển, hoặc các nhà máy có ít nhân công, cần tập trung nhân công vào việc sản xuất</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:106.7014389px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Robot này có thể được ứng dụng trong các nhà máy, công xưởng có nhu cầu về việc vận chuyển, hoặc các nhà máy có ít nhân công, cần tập trung nhân công vào việc sản xuất</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4183-7"
@@ -473,8 +429,8 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4189-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.57933044px;font-family:Lato;-inkscape-font-specification:Lato">So với phương pháp truyền thống thì việc sử dụng robot này rõ ràng tốt hơn hẳn.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:101.57933044px;font-family:Lato;-inkscape-font-specification:Lato"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.28712463px;font-family:Lato;-inkscape-font-specification:Lato">So với phương pháp truyền thống thì việc sử dụng robot này rõ ràng tốt hơn hẳn.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.28712463px;font-family:Lato;-inkscape-font-specification:Lato"
          id="flowPara4250" /></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -487,9 +443,9 @@
            id="use4203-6-9"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.77085114px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.20815277px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
          id="flowPara4790">Do thời gian phát triển ngắn nên robot vẫn chưa thực sự hoàn chỉnh và robot vẫn chưa có hệ thống nâng dỡ hàng. Trong tương lai, chúng tôi sẽ tiếp tục phát triển, bổ sung hệ thống nâng dỡ hàng và tối ưu hóa khung xe để tăng trọng tải.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.77085114px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.20815277px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
          id="flowPara4788" /></flowRoot>    <rect
        style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5817"
@@ -609,7 +565,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-7"
-       transform="matrix(0.89878552,0,0,0.89903924,136.91773,4663.5709)"><flowRegion
+       transform="matrix(0.86355072,0,0,0.8637945,146.27423,4616.2473)"><flowRegion
          id="flowRegion4201-1"><use
            x="0"
            y="0"
@@ -619,7 +575,7 @@
            height="100%"
            transform="matrix(1.0478564,0,0,1.0475607,-58.432214,-2469.6511)" /></flowRegion><flowPara
          id="flowPara4205-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.77085114px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start">Sau quá trình nghiên cứu, thực hiện, hiện nay robot đã hoạt động, có thể vận chuyển được hàng, linh kiện tự động. Giờ đây, việc vận chuyển các kiện hàng đã được robot đảm nhiệm và chỉ cần một nhân công để phụ trách và kiểm soát</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.78461456px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Sau quá trình nghiên cứu, thực hiện, hiện nay robot đã hoạt động, có thể vận chuyển được hàng, linh kiện tự động. Giờ đây, việc vận chuyển các kiện hàng đã được robot đảm nhiệm và chỉ cần một nhân công để phụ trách và kiểm soát</flowPara></flowRoot>    <rect
        style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5809"
        width="1629.9213"
@@ -676,5 +632,17 @@
          x="201.90637"
          y="4054.0083"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">Kết quả</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4295"
+       width="1771.6536"
+       height="1062.9921"
+       x="1948.8186"
+       y="1771.6536" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Main subcontent"
+     style="display:inline" />
 </svg>
