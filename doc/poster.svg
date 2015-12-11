@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10773527"
-     inkscape:cx="4075.1929"
-     inkscape:cy="3383.2161"
+     inkscape:zoom="0.076180337"
+     inkscape:cx="4198.3739"
+     inkscape:cy="2920.0299"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -88,7 +88,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Main panel (layout)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="fill:#666666;stroke:#000000"
        id="rect4184"
@@ -96,43 +96,6 @@
        height="5669.2915"
        x="1771.6533"
        y="7.4676427e-005" />
-    <rect
-       style="fill:#b3b3b3;stroke:#000000;stroke-width:1.32013917"
-       id="rect4186"
-       width="4251.9683"
-       height="885.82678"
-       x="1948.8186"
-       y="177.16542" />
-    <rect
-       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.96078324"
-       id="rect4188"
-       width="4251.9683"
-       height="4251.9683"
-       x="1948.8186"
-       y="1240.1576" />
-    <rect
-       style="display:inline;fill:#e6e6e6;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4494"
-       width="4039.3699"
-       height="744.09442"
-       x="2055.1179"
-       y="248.03157"
-       ry="0" />
-    <rect
-       style="fill:#e6e6e6;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4537"
-       width="3897.6379"
-       height="3897.6377"
-       x="2125.9839"
-       y="1417.3229"
-       ry="1.4676426e-005"
-       inkscape:export-xdpi="11"
-       inkscape:export-ydpi="11" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.43307114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2303.1494,1792.8189 3543.307,0"
-       id="path4539"
-       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -179,25 +142,6 @@
      id="layer6"
      inkscape:label="Main panel (content)"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4062.7327"
-       y="537.23566"
-       id="text4496"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4498"
-         x="4062.7327"
-         y="537.23566"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Mô hình <tspan
-   style="font-weight:bold;font-size:275px"
-   id="tspan4525">robot vận chuyển</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="4062.7327"
-         y="880.98566"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
-         id="tspan4522">hàng hóa trong kho bãi</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4527"
@@ -209,9 +153,51 @@
            height="177.16536"
            x="3720.4724"
            y="708.6615" /></flowRegion><flowPara
-         id="flowPara4533"></flowPara></flowRoot>    <text
+         id="flowPara4533"></flowPara></flowRoot>    <rect
+       style="display:inline;fill:#e6e6e6;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4537"
+       width="4251.9683"
+       height="4251.9683"
+       x="1948.8186"
+       y="1240.1576"
+       ry="1.4676426e-005"
+       inkscape:export-xdpi="11"
+       inkscape:export-ydpi="11" />
+    <rect
+       style="display:inline;fill:#e6e6e6;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4494"
+       width="4251.9683"
+       height="779.52753"
+       x="1948.8186"
+       y="106.29929"
+       ry="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.43307114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2303.1494,1792.8189 3543.307,0"
+       id="path4539"
+       inkscape:connector-curvature="0" />
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4062.7327"
+       y="425.23566"
+       id="text4496"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4498"
+         x="4062.7327"
+         y="425.23566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Mô hình <tspan
+   style="font-weight:bold;font-size:275px"
+   id="tspan4525">robot vận chuyển</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="4062.7327"
+         y="768.98566"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
+         id="tspan4522">hàng hóa trong kho bãi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3198.0891"
        y="1698.4673"
        id="text4541"
