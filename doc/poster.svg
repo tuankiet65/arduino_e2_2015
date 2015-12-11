@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="6541.8867"
-     inkscape:cy="5134.2382"
+     inkscape:zoom="0.0625"
+     inkscape:cx="6885.8005"
+     inkscape:cy="2511.1736"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -256,11 +256,6 @@
        x="6378.6567"
        y="2019.7145"
        ry="0" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.80665588;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6378.2864,2356.0095 1628.2883,0"
-       id="path4161-4"
-       inkscape:connector-curvature="0" />
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.071684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3351-8"
@@ -277,23 +272,6 @@
        x="6378.6821"
        y="3829.3628"
        ry="0" />
-    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.80497742;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 6378.6517,4165.663 1628.1355,0"
-       id="path4163-5"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="6838.5854"
-       y="2221.429"
-       id="text4191-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4193-2"
-         x="6838.5854"
-         y="2221.429"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:Lato">ỨNG DỤNG</tspan></text>
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -320,19 +298,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4189-8"
-         style="font-size:101.57933044px">So với phương phát truyền thống thì việc sử dụng robot này rõ ràng tốt hơn hẳn. ????</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="6857.9209"
-       y="4059.9275"
-       id="text4219-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4221-7"
-         x="6857.9209"
-         y="4059.9275"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato">HẠN CHẾ</tspan></text>
-    <flowRoot
+         style="font-size:101.57933044px">So với phương phát truyền thống thì việc sử dụng robot này rõ ràng tốt hơn hẳn. ????</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-7-7"
@@ -366,6 +332,44 @@
          x="6443.3232"
          y="391.10385"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">Kết luận</tspan></text>
+    <rect
+       style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5819"
+       width="1629.9213"
+       height="354.33072"
+       x="6377.9521"
+       y="2019.6851" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6443.0708"
+       y="2249.4534"
+       id="text4191-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4193-2"
+         x="6443.0708"
+         y="2249.4534"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff">Ứng dụng</tspan></text>
+    <rect
+       style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5821"
+       width="1629.9213"
+       height="354.33072"
+       x="6377.9521"
+       y="3826.7717" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="6438.8286"
+       y="4056.4128"
+       id="text4219-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4221-7"
+         x="6438.8286"
+         y="4056.4128"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff">Hạn chế</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
