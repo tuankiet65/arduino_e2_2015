@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="3041.4291"
-     inkscape:cy="4817.9078"
+     inkscape:zoom="0.0625"
+     inkscape:cx="5841.7483"
+     inkscape:cy="2911.1757"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer7"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -3302,7 +3302,8 @@ pLGR1ESsRnjL1E+Xn/+nXmyeOoj0GQAA+ut/AQYAhWqXUTgT//MAAAAASUVORK5CYII=
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel (content)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4527"
@@ -3373,7 +3374,8 @@ pLGR1ESsRnjL1E+Xn/+nXmyeOoj0GQAA+ut/AQYAhWqXUTgT//MAAAAASUVORK5CYII=
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel (content)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3353-3"
@@ -3495,7 +3497,8 @@ pLGR1ESsRnjL1E+Xn/+nXmyeOoj0GQAA+ut/AQYAhWqXUTgT//MAAAAASUVORK5CYII=
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel (content)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3353"
