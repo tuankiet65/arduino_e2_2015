@@ -21,7 +21,200 @@
    inkscape:export-xdpi="11.043478"
    inkscape:export-ydpi="11.043478">
   <defs
-     id="defs4" />
+     id="defs4">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5823">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5825" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5827" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="37.9"
+         result="blur"
+         id="feGaussianBlur5829" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5831" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5833" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5835">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5837" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5839" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="37.9"
+         result="blur"
+         id="feGaussianBlur5841" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5843" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5845" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5847">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5849" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5851" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="37.9"
+         result="blur"
+         id="feGaussianBlur5853" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5855" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5857" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5859">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5861" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5863" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="37.9"
+         result="blur"
+         id="feGaussianBlur5865" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5867" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5869" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5871">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5873" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5875" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="37.9"
+         result="blur"
+         id="feGaussianBlur5877" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5879" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5881" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5883">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5885" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5887" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="37.9"
+         result="blur"
+         id="feGaussianBlur5889" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5891" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5893" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,11 +222,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="8042.3318"
-     inkscape:cy="2496.6853"
+     inkscape:zoom="0.125"
+     inkscape:cx="3933.3778"
+     inkscape:cy="3477.563"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -127,7 +320,7 @@
        inkscape:export-xdpi="11"
        inkscape:export-ydpi="11" />
     <rect
-       style="display:inline;fill:#e6e6e6;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4494"
        width="4251.9683"
        height="1062.9921"
@@ -141,7 +334,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="4062.7327"
        y="485.23566"
        id="text4496"
@@ -150,11 +343,11 @@
          id="tspan4498"
          x="4062.7327"
          y="485.23566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Mô hình robot vận chuyển</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;">Mô hình robot vận chuyển</tspan><tspan
          sodipodi:role="line"
          x="4062.7327"
          y="828.98566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;"
          id="tspan4522">hàng hóa trong kho bãi</tspan></text>
     <text
        xml:space="preserve"
@@ -170,7 +363,7 @@
          style="font-weight:bold;font-size:187.5px">MÔ HÌNH THIẾT KẾ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="2804.0691"
        y="1107.366"
        id="text4975"
@@ -179,7 +372,7 @@
          id="tspan4977"
          x="2804.0691"
          y="1107.366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Lat;-inkscape-font-specification:Lat">Hồ Tuấn Kiệt - Nguyễn Lê Lý Bằng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Lat;-inkscape-font-specification:Lat;fill:#ffffff;">Hồ Tuấn Kiệt - Nguyễn Lê Lý Bằng</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:0;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4217"
@@ -249,7 +442,7 @@
      inkscape:label="Right panel"
      style="display:inline">
     <rect
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5835)"
        id="rect3353-3"
        width="1628.595"
        height="1591.1815"
@@ -257,7 +450,7 @@
        y="2019.7145"
        ry="0" />
     <rect
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.071684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.071684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5823)"
        id="rect3351-8"
        width="1628.6691"
        height="1593.6418"
@@ -265,7 +458,7 @@
        y="178.0235"
        ry="0" />
     <rect
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.06039035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.06039035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5847)"
        id="rect3355-7"
        width="1629.1915"
        height="1662.7632"
@@ -377,7 +570,7 @@
      inkscape:label="Left panel"
      style="display:inline">
     <rect
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5871)"
        id="rect3353"
        width="1628.595"
        height="1591.1815"
@@ -385,7 +578,7 @@
        y="2020.0198"
        ry="0" />
     <rect
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.071684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.071684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5883)"
        id="rect3351"
        width="1628.6691"
        height="1593.6418"
@@ -393,7 +586,7 @@
        y="178.32889"
        ry="0" />
     <rect
-       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.06039035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.06039035px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5859)"
        id="rect3355"
        width="1628.458"
        height="1662.4578"
