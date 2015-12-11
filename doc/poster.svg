@@ -790,6 +790,27 @@
          result="composite2"
          id="feComposite7323" />
     </filter>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-3" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-5" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -798,11 +819,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.08838835"
-     inkscape:cx="3911.741"
-     inkscape:cy="2965.8296"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="992.95124"
+     inkscape:cy="4532.0109"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -989,7 +1010,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4183-7"
-       transform="matrix(0.87672762,0,0,0.90463912,6356.2793,690.47986)"><flowRegion
+       transform="matrix(0.87672762,0,0,0.90463912,6339.3087,486.83311)"><flowRegion
          id="flowRegion4185-8"><use
            x="0"
            y="0"
@@ -997,10 +1018,8 @@
            id="use4187-7"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara4189-8"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.28712463px;font-family:Lato;-inkscape-font-specification:Lato">So với phương pháp truyền thống thì việc sử dụng robot này rõ ràng tốt hơn hẳn.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.28712463px;font-family:Lato;-inkscape-font-specification:Lato"
-         id="flowPara4250" /></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.28712463px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
+         id="flowPara4250">Đề tài đã thực hiện chế tạo thành công một sản phẩm robot có chức năng vận chuyển hàng tự động, đảm bảo các chức năng cơ bản như: đi đúng đường, đưa được hàng đến đúng vị trí, nhậận biết được vật cản để tránh va chạm.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-7-7"
@@ -1152,14 +1171,7 @@
            height="100%"
            transform="matrix(1.163715,0,0,1.163715,6892.8146,-747.52283)" /></flowRegion><flowPara
          id="flowPara4362-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Màn hình LCD 16x2 dùng để hiển thị giao diên người dùng</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4356-9"
-       transform="matrix(0.85931691,0,0,0.85931691,-3821.7918,-756.32552)"><flowRegion
-         id="flowRegion4358-4" /><flowPara
-         id="flowPara4362-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Màn hình LCD 16x2 dùng để hiển thị giao diên người dùng</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-69)"
        id="rect5147-7"
        width="1771.6536"
@@ -1398,7 +1410,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199"
-       transform="matrix(0.8731839,0,0,0.87343038,98.94761,1147.1708)"><flowRegion
+       transform="matrix(0.8731839,0,0,0.87343038,100.94761,1105.1708)"><flowRegion
          id="flowRegion4201"><use
            x="0"
            y="0"
@@ -1408,11 +1420,11 @@
            height="100%"
            transform="matrix(1.0478564,0,0,1.0475607,-29.589318,-564.14622)" /></flowRegion><flowPara
          id="flowPara4205"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.50725555px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Việc vận chuyển hàng từ trước đến nay đều do một bộ phận nhân công đảm nhiệm, tốn chi phí và nguồn nhân công của doanh nghiệp. Nếu chúng ta có thể thay thế lượng nhân công này bằng robot thì sẽ tối ưu hóa chi phí và sự phân bố nhân công</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:114.50725555px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Việc vận chuyển hàng từ trước đến nay đều do một bộ phận nhân công đảm nhiệm, tốn chi phí và nguồn nhân công của doanh nghiệp. Nếu chúng ta có thể thay thế lượng nhân công này bằng robot thì sẽ tối ưu hóa chi phí và cơ cấu nhân công trong nhà máy.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4183"
-       transform="matrix(0.8840715,0,0,0.9122168,100.26789,845.70786)"><flowRegion
+       transform="matrix(0.8840715,0,0,0.9122168,100.26789,862.67842)"><flowRegion
          id="flowRegion4185"><use
            x="0"
            y="0"
@@ -1422,11 +1434,11 @@
            height="100%"
            transform="matrix(1.031836,0,0,1,-20.035751,-411.1606)" /></flowRegion><flowPara
          id="flowPara4189"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.35437012px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Hiện nay, vấn đề thiếu hụt nhân công đang là một vấn đề nhức nhối, do vậy chúng tôi đã nghiên cứu thiết kế robot vận chuyển hàng hóa để giảm thiểu tối đa số lượng nhân công cho việc vận chuyển linh kiện, đảm bảo nguồn lực lao động cho các khu sản xuất.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.35437012px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Dự án này nhằm cải thiện các hoạt động vận chuyển hàng hóa, làm chúng trở nên dễ quản lý hơn, đồng thời tối thiểu những khoảng nghỉ, tối đa năng suất cũng như giảm thiểu chi phí mà doanh nghiệp phải chi trả.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-7"
-       transform="matrix(0.86355072,0,0,0.8637945,146.27423,4616.2473)"><flowRegion
+       transform="matrix(0.86355072,0,0,0.8637945,130.27423,4764.2473)"><flowRegion
          id="flowRegion4201-1"><use
            x="0"
            y="0"
@@ -1436,7 +1448,7 @@
            height="100%"
            transform="matrix(1.0478564,0,0,1.0475607,-58.432214,-2469.6511)" /></flowRegion><flowPara
          id="flowPara4205-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.78461456px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Sau quá trình nghiên cứu, thực hiện, hiện nay robot đã hoạt động, có thể vận chuyển được hàng, linh kiện tự động. Giờ đây, việc vận chuyển các kiện hàng đã được robot đảm nhiệm và chỉ cần một nhân công để phụ trách và kiểm soát</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.78461456px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Nhìn chung, sản phẩm đã hoàn thành và có đủ chức năng cơ bản, có thể vận chuyển được hàng, linh kiện một cách tự đông và chỉ cần một nhân công để phụ trách, kiểm soát.</flowPara></flowRoot>    <rect
        style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5809"
        width="1629.9213"
