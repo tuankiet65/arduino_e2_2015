@@ -819,9 +819,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="6441.4586"
-     inkscape:cy="4305.7367"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="5460.4878"
+     inkscape:cy="3674.236"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="true"
@@ -1094,15 +1094,15 @@
     <rect
        style="fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432)"
        id="rect5147"
-       width="1240.1578"
-       height="814.96057"
+       width="1346.1578"
+       height="1009.8267"
        x="4677.4639"
        y="1470.4883" />
     <rect
        style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4346"
-       width="1240.1578"
-       height="177.16531"
+       width="1346.1578"
+       height="194.8661"
        x="4677.4639"
        y="1470.4883" />
     <text
@@ -1131,7 +1131,7 @@
            height="100%"
            transform="matrix(1.0754911,0,0,1.0754911,-382.63974,-313.65875)" /></flowRegion><flowPara
          id="flowPara4362"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100.8272934px;font-family:Lato;-inkscape-font-specification:Lato">Cảm biến siêu âm sử dụng các sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức khi phát hiện có vật cản</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:116.37150574px;font-family:Lato;-inkscape-font-specification:Lato;text-align:start;text-anchor:start">Cảm biến siêu âm sử dụng sóng siêu âm để phát hiện vật cản trở chuyển động và tự động dừng ngay lập tức khi phát hiện có vật cản</flowPara></flowRoot>    <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4432-2)"
        id="rect5147-4"
        width="1237.3085"
