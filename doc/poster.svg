@@ -223,10 +223,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="2498.1116"
-     inkscape:cy="3069.563"
+     inkscape:cx="3985.5565"
+     inkscape:cy="1941.9901"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -314,8 +314,8 @@
        id="rect4537"
        width="4251.9683"
        height="1948.8188"
-       x="1948.8186"
-       y="3543.323"
+       x="1950.4755"
+       y="1418.0859"
        ry="1.3953977e-005"
        inkscape:export-xdpi="11"
        inkscape:export-ydpi="11" />
@@ -329,7 +329,7 @@
        ry="0" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.43307114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2303.1494,3916.8189 3543.307,0"
+       d="m 2304.8063,1791.5818 3543.307,0"
        id="path4539"
        inkscape:connector-curvature="0" />
     <text
@@ -352,14 +352,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3198.0891"
-       y="3826.4673"
+       x="3199.7458"
+       y="1701.2301"
        id="text4541"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4543"
-         x="3198.0891"
-         y="3826.4673"
+         x="3199.7458"
+         y="1701.2301"
          style="font-weight:bold;font-size:187.5px">MÔ HÌNH THIẾT KẾ</tspan></text>
     <text
        xml:space="preserve"
@@ -393,48 +393,6 @@
          x="3198.1914"
          y="3825.5466"
          style="font-weight:bold;font-size:187.5px" /></text>
-    <rect
-       style="fill:#e6e6e6;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4251"
-       width="4251.9683"
-       height="1948.8188"
-       x="1948.8186"
-       y="1417.3229" />
-    <rect
-       style="fill:#e6e6e6;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4253"
-       width="1948.8188"
-       height="885.82678"
-       x="2125.9839"
-       y="1594.4883" />
-    <rect
-       style="fill:#b3b3b3;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4261"
-       width="1948.8188"
-       height="885.82678"
-       x="4251.9678"
-       y="1417.3229" />
-    <rect
-       style="fill:#b3b3b3;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4263"
-       width="1948.8188"
-       height="885.82678"
-       x="4251.9678"
-       y="2480.3149" />
-    <rect
-       style="fill:#b3b3b3;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4265"
-       width="1948.8188"
-       height="885.82678"
-       x="1948.8186"
-       y="1417.3229" />
-    <rect
-       style="fill:#b3b3b3;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect4267"
-       width="1948.8188"
-       height="885.82678"
-       x="1948.8186"
-       y="2480.3149" />
   </g>
   <g
      inkscape:groupmode="layer"
