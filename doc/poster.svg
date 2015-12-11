@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43094106"
-     inkscape:cx="817.79784"
-     inkscape:cy="4978.506"
+     inkscape:zoom="0.125"
+     inkscape:cx="5054.194"
+     inkscape:cy="3919.4009"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer7"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -88,7 +88,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Main panel (layout)"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#666666;stroke:#000000"
        id="rect4184"
@@ -101,7 +102,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Right panel (layout)"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#808080;stroke:#000000;stroke-width:1.04862297"
        id="rect4169-8"
@@ -121,7 +123,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Left panel (layout)"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#808080;stroke:#000000;stroke-width:1.04862297"
        id="rect4169"
@@ -336,7 +339,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel (content)"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#e6e6e6;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3353"
@@ -452,4 +456,8 @@
            height="100%" /></flowRegion><flowPara
          id="flowPara4205-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:104.77085114px;font-family:Lato;-inkscape-font-specification:Lato">Sau quá trình nghiên cứu, thực hiện, hiện nay robot đã hoạt động, có thể vận chuyển được hàng, linh kiện tự động. Giờ đây, việc vận chuyển các kiện hàng đã được robot đảm nhiệm và chỉ cần một nhân công để phụ trách và kiểm soát</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Background" />
 </svg>
