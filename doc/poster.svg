@@ -22,6 +22,13 @@
    inkscape:export-ydpi="11.043478">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 2834.6458 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="8149.6061 : 2834.6458 : 1"
+       inkscape:persp3d-origin="4074.803 : 1889.7639 : 1"
+       id="perspective5899" />
     <filter
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
@@ -393,6 +400,23 @@
          x="3198.1914"
          y="3825.5466"
          style="font-weight:bold;font-size:187.5px" /></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path5929"
+       sodipodi:sides="5"
+       sodipodi:cx="3188.9761"
+       sodipodi:cy="7618.1104"
+       sodipodi:r1="638.77875"
+       sodipodi:r2="319.38937"
+       sodipodi:arg1="0.98279372"
+       sodipodi:arg2="1.6111123"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 3543.3068,8149.6064 -367.2037,-212.3662 -383.1156,182.1 88.5001,-414.8563 -291.5766,-308.0925 421.8997,-44.0291 202.9114,-372.5116 172.2483,387.6447 416.9827,77.8677 -315.4445,283.6068 z"
+       inkscape:transform-center-x="-7.9559461"
+       inkscape:transform-center-y="-53.381827" />
   </g>
   <g
      inkscape:groupmode="layer"
