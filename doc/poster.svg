@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="4024.3921"
-     inkscape:cy="3192.0192"
+     inkscape:zoom="0.125"
+     inkscape:cx="3206.3617"
+     inkscape:cy="2905.4551"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -244,6 +244,33 @@
        x="1948.8186"
        y="3543.3071"
        ry="1.3954e-005" />
+    <rect
+       style="display:inline;fill:#e6e6e6;fill-opacity:0.78431373;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4537-5"
+       width="4251.9683"
+       height="1948.8188"
+       x="1948.9208"
+       y="3544.4023"
+       ry="1.3953977e-005"
+       inkscape:export-xdpi="11"
+       inkscape:export-ydpi="11" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:35.43307114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2303.2515,3919.8983 3543.3071,0"
+       id="path4539-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3198.1914"
+       y="3825.5466"
+       id="text4541-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4543-1"
+         x="3198.1914"
+         y="3825.5466"
+         style="font-weight:bold;font-size:187.5px">MÔ HÌNH THIẾT KẾ</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
