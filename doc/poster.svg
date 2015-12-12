@@ -819,9 +819,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="4315.6969"
-     inkscape:cy="2321.65"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="2606.8738"
+     inkscape:cy="1592.3196"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1383,8 +1383,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5871)"
        id="rect3353"
@@ -1769,5 +1768,24 @@
        height="1665.3542"
        x="1948.8186"
        y="3826.7717" />
+    <rect
+       style="fill:#37474f;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4507"
+       width="4251.9683"
+       height="354.33066"
+       x="1948.8186"
+       y="3826.7717" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2077.9839"
+       y="4052.8032"
+       id="text4509"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4511"
+         x="2077.9839"
+         y="4052.8032"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:0.94117647">Quy trình vận hành</tspan></text>
   </g>
 </svg>
