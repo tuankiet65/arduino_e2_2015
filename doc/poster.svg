@@ -819,9 +819,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2606.8738"
-     inkscape:cy="1592.3196"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="3706.0683"
+     inkscape:cy="1599.3619"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1426,7 +1426,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4183"
-       transform="matrix(0.8840715,0,0,0.9122168,100.26789,862.67842)"><flowRegion
+       transform="matrix(0.8840715,0,0,0.9122168,100.26789,768.67842)"><flowRegion
          id="flowRegion4185"><use
            x="0"
            y="0"
@@ -1436,7 +1436,7 @@
            height="100%"
            transform="matrix(1.031836,0,0,1,-20.035751,-411.1606)" /></flowRegion><flowPara
          id="flowPara4189"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.35437012px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Dự án này nhằm cải thiện các hoạt động vận chuyển hàng hóa, làm chúng trở nên dễ quản lý hơn, đồng thời tối thiểu những khoảng nghỉ, tối đa năng suất cũng như giảm thiểu chi phí mà doanh nghiệp phải chi trả.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.35437012px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start">Nhận thấy các bất cập trong việc vận chuyển hàng hóa, chúng tôi thiết kế robot này nhằm cải thiện các hoạt động vận chuyển hàng hóa, làm chúng trở nên dễ quản lý hơn, đồng thời tối thiểu những khoảng nghỉ, tối đa năng suất cũng như giảm thiểu chi phí mà doanh nghiệp phải chi trả.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-7"
@@ -1507,6 +1507,13 @@
          x="201.90637"
          y="4054.0083"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:1">Kết quả</tspan></text>
+    <rect
+       style="fill:#2196f3;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4519"
+       width="1417.3229"
+       height="425.19684"
+       x="2125.9839"
+       y="4322.8345" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1787,5 +1794,25 @@
          x="2077.9839"
          y="4052.8032"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:0.94117647">Quy trình vận hành</tspan></text>
-  </g>
+    <rect
+       style="fill:#2196f3;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4521"
+       width="1033.3229"
+       height="387.49606"
+       x="2231.9839"
+       y="4358.2676" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4528"
+       transform="translate(-12,76.000001)"><flowRegion
+         id="flowRegion4530"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4521"
+           id="use4532"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4534"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Robot ở vị trí sẵn sàng để giao hàng</flowPara></flowRoot>  </g>
 </svg>
