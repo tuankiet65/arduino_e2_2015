@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="poster.svg"
-   inkscape:export-filename="G:\Poster_KHKT\kiet_2000.png"
-   inkscape:export-xdpi="21.975071"
-   inkscape:export-ydpi="21.975071">
+   inkscape:export-filename="E:\bitmap.png"
+   inkscape:export-xdpi="109.87536"
+   inkscape:export-ydpi="109.87536">
   <defs
      id="defs4">
     <marker
@@ -819,9 +819,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.08838835"
-     inkscape:cx="3497.7992"
-     inkscape:cy="3377.6042"
+     inkscape:zoom="0.044194175"
+     inkscape:cx="5229.5651"
+     inkscape:cy="3433.964"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="true"
@@ -893,7 +893,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
@@ -968,7 +968,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5835)"
@@ -1382,7 +1382,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5871)"
@@ -1513,7 +1513,7 @@
      id="layer3"
      inkscape:label="Car"
      sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:none">
     <g
        id="g4948"
        style="display:inline;opacity:0.97000002"
