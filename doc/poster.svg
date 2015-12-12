@@ -819,11 +819,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.044194175"
-     inkscape:cx="5229.5651"
-     inkscape:cy="3433.964"
+     inkscape:zoom="0.08838835"
+     inkscape:cx="5193.174"
+     inkscape:cy="698.53483"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -878,7 +878,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Background"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        y="7.4676427e-005"
        x="-0.00024414062"
@@ -893,7 +894,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <flowRoot
        xml:space="preserve"
@@ -968,7 +969,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5835)"
@@ -1382,8 +1383,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:none"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5871)"
        id="rect3353"
@@ -1513,7 +1513,7 @@
      id="layer3"
      inkscape:label="Car"
      sodipodi:insensitive="true"
-     style="display:none">
+     style="display:inline">
     <g
        id="g4948"
        style="display:inline;opacity:0.97000002"
