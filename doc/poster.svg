@@ -1012,6 +1012,134 @@
          result="composite2"
          id="feComposite4605" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5687">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5689" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5691" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="31.9"
+         result="blur"
+         id="feGaussianBlur5693" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5695" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5697" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5699">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5701" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5703" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="31.9"
+         result="blur"
+         id="feGaussianBlur5705" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5707" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5709" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5711">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5713" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5715" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="31.9"
+         result="blur"
+         id="feGaussianBlur5717" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5719" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5721" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5723">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5725" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5727" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="31.9"
+         result="blur"
+         id="feGaussianBlur5729" />
+      <feOffset
+         dx="6"
+         dy="6"
+         result="offset"
+         id="feOffset5731" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5733" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1020,11 +1148,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="4042.2268"
-     inkscape:cy="2193.244"
+     inkscape:zoom="0.125"
+     inkscape:cx="3022.1827"
+     inkscape:cy="2016.89"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1494,7 +1622,7 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-7-7"
-       transform="matrix(0.89841266,0,0,0.89866628,6328.189,2398.7076)"><flowRegion
+       transform="matrix(0.89841266,0,0,0.89866628,6328.189,2386.7076)"><flowRegion
          id="flowRegion4201-1-3"><use
            x="0"
            y="0"
@@ -1503,7 +1631,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.29171753px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
-         id="flowPara4788">Thời gian phát triển ngắn hạn nên nhóm chỉ mới phát triển được sản phẩm với các chức năng cơ bản như trên. Trong tương lai, nhóm có thể phát triển sản phẩm bằng cách thêm hệ thống cơ (tay nâng) để tự bốc dỡ hàng, thiết kế lại và tối ưu hóa kết cấu khung xe để tăng tải trọng và thẩm mĩ</flowPara></flowRoot>    <flowRoot
+         id="flowPara4788">Thời gian phát triển ngắn hạn nên nhóm chỉ mới phát triển được sản phẩm với các chức năng cơ bản như trên. Trong tương lai, nhóm có thể phát triển sản phẩm bằng cách thêm hệ thống cơ (tay nâng) để tự bốc dỡ hàng, thiết kế lại và tối ưu hóa kết cấu khung xe để tăng tải trọng và thẩm mĩ.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-6"
@@ -1994,7 +2122,7 @@
      inkscape:label="Flowchart"
      style="display:inline">
     <rect
-       style="fill:#f5f5f5;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.99"
+       style="fill:#f5f5f5;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.99;filter:url(#filter5723)"
        id="rect4505"
        width="4251.9683"
        height="1311.0236"
@@ -2020,21 +2148,21 @@
          y="4407.5283"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:0.94117647">Quy trình vận hành</tspan></text>
     <rect
-       style="fill:#0d47a1;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#009688;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5711)"
        id="rect4521"
        width="1027.559"
        height="531.49597"
        x="2055.1179"
        y="4606.2993" />
     <rect
-       style="fill:#0d47a1;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#009688;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5699)"
        id="rect4521-5"
        width="1027.559"
        height="531.49615"
        x="3578.74"
        y="4606.2993" />
     <rect
-       style="display:inline;fill:#0d47a1;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#009688;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5687)"
        id="rect4521-5-0"
        width="1027.5591"
        height="531.49597"
@@ -2042,7 +2170,7 @@
        y="4606.2993" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot4545"
        transform="matrix(1.027763,0,0,1.027763,-111.74855,405.23761)"><flowRegion
          id="flowRegion4547"><use
@@ -2054,24 +2182,24 @@
            height="100%"
            transform="matrix(0.97298696,0,0,0.97298696,97.054043,-279.47845)" /></flowRegion><flowPara
          id="flowPara4551"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
-       style="fill:#673ab7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3119.5431,4890.3307 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
+       style="fill:#1e88e5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3119.5431,4858.3307 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
        id="path4796"
        inkscape:connector-curvature="0" />
     <path
-       style="display:inline;fill:#673ab7;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 4641.0249,4888.5567 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
+       style="display:inline;fill:#1e88e5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4641.0249,4858.5567 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
        id="path4796-5"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#673ab7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#1e88e5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 5598.4249,5173.7953 0,177.1653 -2976.3779,0 0,-70.8661 70.8662,0 -106.2993,-106.2992 -106.2992,106.2992 70.8662,0 0,141.7323 3118.1102,0 0,-248.0315 z"
        id="path5571"
        inkscape:connector-curvature="0" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot5573"
        transform="translate(0,8)"><flowRegion
          id="flowRegion5575"><use
@@ -2081,10 +2209,10 @@
            id="use5577"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;"
          id="flowPara5579">Robot tự động di chuyển tới nơi giao hàng theo hiệu lệnh người điều khiển</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot5573-5"
        transform="translate(1522.7462,76.000884)"><flowRegion
          id="flowRegion5575-0"><use
@@ -2094,6 +2222,6 @@
            id="use5577-3"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;"
          id="flowPara5579-4">Robot trở về vị trí nhận hàng sau khi có tín hiệu đã bốc hàng xong</flowPara></flowRoot>  </g>
 </svg>
