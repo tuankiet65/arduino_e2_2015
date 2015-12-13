@@ -1181,10 +1181,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.088388348"
-     inkscape:cx="4164.0909"
-     inkscape:cy="2984.0202"
+     inkscape:cx="4105.2184"
+     inkscape:cy="2685.2908"
      inkscape:document-units="px"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1204,7 +1204,7 @@
        type="xygrid"
        id="grid4152"
        units="cm"
-       enabled="false"
+       enabled="true"
        visible="true"
        snapvisiblegridlinesonly="true"
        dotted="false"
@@ -1214,7 +1214,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid5839"
-       empspacing="1" />
+       empspacing="1"
+       enabled="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
