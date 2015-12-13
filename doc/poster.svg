@@ -1180,9 +1180,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.088388348"
-     inkscape:cx="4105.2184"
-     inkscape:cy="2685.2908"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="4145.0384"
+     inkscape:cy="4731.4766"
      inkscape:document-units="px"
      inkscape:current-layer="layer6"
      showgrid="true"
@@ -1248,7 +1248,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Background"
-     style="display:inline">
+     style="display:none">
     <image
        y="7.4625015e-005"
        x="-0.00024414062"
@@ -1343,32 +1343,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="4062.7327"
-       y="485.23566"
+       x="4088.7327"
+       y="789.23566"
        id="text4496"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4498"
-         x="4062.7327"
-         y="485.23566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff">Mô hình robot vận chuyển</tspan><tspan
-         sodipodi:role="line"
-         x="4062.7327"
-         y="828.98566"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:275px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan4522">hàng hóa trong kho bãi</tspan></text>
+         x="4088.7327"
+         y="789.23566"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan4522">Mô hình robot vận chuyển hàng hóa trong kho bãi</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2804.0691"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2928.0691"
        y="1107.366"
        id="text4975"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4977"
-         x="2804.0691"
+         x="2928.0691"
          y="1107.366"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Lat;-inkscape-font-specification:Lat;fill:#ffffff">Hồ Tuấn Kiệt - Nguyễn Lê Lý Bằng</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff">Hồ Tuấn Kiệt - Nguyễn Lê Lý Bằng</tspan></text>
     <rect
        style="fill:#000000;fill-opacity:0;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4217"
@@ -1675,7 +1670,19 @@
            height="100%"
            transform="matrix(1.077434,0,0,1.077434,-209.09778,-678.70717)" /></flowRegion><flowPara
          id="flowPara7417-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.57369232px;font-family:Lato;-inkscape-font-specification:Lato">Đầu đọc thẻ RFID sử dụng công nghệ sóng vô tuyến để đọc thẻ RFID gắn ở mỗi điểm dừng, từ đó robot có thể nhận  biết các điểm dừng theo số serial trên thẻ.</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:113.57369232px;font-family:Lato;-inkscape-font-specification:Lato">Đầu đọc thẻ RFID sử dụng công nghệ sóng vô tuyến để đọc thẻ RFID gắn ở mỗi điểm dừng, từ đó robot có thể nhận  biết các điểm dừng theo số serial trên thẻ.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3964.0618"
+       y="510.04953"
+       id="text4496-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3964.0618"
+         y="510.04953"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.5px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan4522-7" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
