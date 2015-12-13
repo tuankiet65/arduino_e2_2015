@@ -2,6 +2,7 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -22,6 +23,14 @@
    inkscape:export-ydpi="300">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5565"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#9e9e9e;stop-opacity:1;"
+         offset="0"
+         id="stop5567" />
+    </linearGradient>
     <marker
        inkscape:stockid="Arrow2Lstart"
        orient="auto"
@@ -1011,9 +1020,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="4314.4478"
-     inkscape:cy="404.68828"
+     inkscape:zoom="0.125"
+     inkscape:cx="4226.6856"
+     inkscape:cy="1708.9255"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -2013,31 +2022,31 @@
          y="4407.5283"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;font-family:Lato;-inkscape-font-specification:Lato;fill:#ffffff;fill-opacity:0.94117647">Quy trình vận hành</tspan></text>
     <rect
-       style="fill:#2196f3;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#0d47a1;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4521"
-       width="1033.3229"
-       height="387.49606"
-       x="2056.3271"
-       y="4712.9927" />
+       width="1027.559"
+       height="531.49597"
+       x="2055.1179"
+       y="4606.2993" />
     <rect
-       style="fill:#2196f3;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#0d47a1;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4521-5"
-       width="971.09747"
-       height="387.49606"
-       x="3618.6577"
-       y="4713.2603" />
+       width="1027.559"
+       height="531.49615"
+       x="3578.74"
+       y="4606.2993" />
     <rect
-       style="display:inline;fill:#2196f3;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:#0d47a1;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect4521-5-0"
-       width="1033.3229"
-       height="387.49606"
-       x="5100.8789"
-       y="4701.9468" />
+       width="1027.5591"
+       height="531.49597"
+       x="5102.3618"
+       y="4606.2993" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4545"
-       transform="matrix(1.027763,0,0,1.027763,-111.74855,335.23761)"><flowRegion
+       transform="matrix(1.027763,0,0,1.027763,-111.74855,405.23761)"><flowRegion
          id="flowRegion4547"><use
            x="0"
            y="0"
@@ -2047,35 +2056,46 @@
            height="100%"
            transform="matrix(0.97298696,0,0,0.97298696,97.054043,-279.47845)" /></flowRegion><flowPara
          id="flowPara4551"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3153.5431,4890.3307 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
+       style="fill:#673ab7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3119.5431,4890.3307 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
        id="path4796"
        inkscape:connector-curvature="0" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4545-9"
-       transform="matrix(1.0800045,0,0,1.0800045,1304.1172,50.013735)"><flowRegion
-         id="flowRegion4547-7"><use
-           x="0"
-           y="0"
-           xlink:href="#rect4521"
-           id="use4549-5"
-           width="100%"
-           height="100%"
-           transform="matrix(0.97298696,0,0,0.97298696,97.054043,-279.47845)" /></flowRegion><flowPara
-         id="flowPara4551-6"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Robot tự động di chuyển tới nơi giao hàng</flowPara></flowRoot>    <path
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4642.6095,4890.2718 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
+    <path
+       style="display:inline;fill:#673ab7;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 4641.0249,4888.5567 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
        id="path4796-5"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 5669.5169,5138.5516 1.0293,175.8232 -3013.0661,0.5858 0,-70.8661 70.8661,0 -106.2992,-106.2992 -106.2992,106.2992 69.8358,1.6616 0,141.7323 3153.6211,-34.726 0.2929,-214.9937 -70.1852,0.7071"
-       id="path4837"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccc" />
-  </g>
+       style="fill:#673ab7;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5598.4249,5173.7953 0,177.1653 -2976.3779,0 0,-70.8661 70.8662,0 -106.2993,-106.2992 -106.2992,106.2992 70.8662,0 0,141.7323 3118.1102,0 0,-248.0315 z"
+       id="path5571"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5573"
+       transform="translate(0,8)"><flowRegion
+         id="flowRegion5575"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4521-5"
+           id="use5577"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara5579">Robot tự động di chuyển tới nơi giao hàng theo hiệu lệnh người điều khiển</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot5573-5"
+       transform="translate(1522.7462,76.000884)"><flowRegion
+         id="flowRegion5575-0"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4521-5"
+           id="use5577-3"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara5579-4">Robot trở về vị trí nhận hàng sau khi có tín hiệu đã bốc hàng xong</flowPara></flowRoot>  </g>
 </svg>
