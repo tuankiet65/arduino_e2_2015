@@ -1896,16 +1896,51 @@
     </filter>
     <filter
        inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
+       style="color-interpolation-filters:sRGB;"
        id="filter7792"
        x="-0.02965086"
        width="1.0593017"
        y="-0.042113368"
-       height="1.0842267">
+       height="1.0842267"
+       inkscape:label="Drop Shadow">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="68.25875"
-         id="feGaussianBlur7794" />
+         id="feGaussianBlur7794"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix9680" />
+      <feFlood
+         id="feFlood9682"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite9684"
+         in2="fbSourceGraphic"
+         in="flood"
+         operator="out"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur9686"
+         in="composite1"
+         stdDeviation="44.7"
+         result="blur" />
+      <feOffset
+         id="feOffset9688"
+         dx="26.5789"
+         dy="-50"
+         result="offset" />
+      <feComposite
+         id="feComposite9690"
+         in2="fbSourceGraphic"
+         in="offset"
+         operator="atop"
+         result="composite2" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -1917,6 +1952,102 @@
          in2="BackgroundImage"
          id="feBlend7894" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter8432">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood8434" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite8436" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="34.7368"
+         result="blur"
+         id="feGaussianBlur8438" />
+      <feOffset
+         dx="50"
+         dy="-27.6"
+         result="offset"
+         id="feOffset8440" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite8442" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter9056">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9058" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite9060" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="78.9"
+         result="blur"
+         id="feGaussianBlur9062" />
+      <feOffset
+         dx="-50"
+         dy="50"
+         result="offset"
+         id="feOffset9064" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite9066" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter9176">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood9178" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite1"
+         id="feComposite9180" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="78.9"
+         result="blur"
+         id="feGaussianBlur9182" />
+      <feOffset
+         dx="-50"
+         dy="50"
+         result="offset"
+         id="feOffset9184" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="atop"
+         result="composite2"
+         id="feComposite9186" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1926,8 +2057,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.125"
-     inkscape:cx="3034.1107"
-     inkscape:cy="4248.5554"
+     inkscape:cx="4177.1309"
+     inkscape:cy="3772.8084"
      inkscape:document-units="px"
      inkscape:current-layer="layer9"
      showgrid="true"
@@ -1992,8 +2123,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer9"
-     inkscape:label="Vectorized background"
-     style="display:inline;opacity:0.99;filter:url(#filter7892)">
+     inkscape:label="Background"
+     style="display:inline;opacity:0.98999999;filter:url(#filter7892)">
     <path
        style="opacity:1;fill:#04a0b9;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="M 204.99976,-0.70866142 3684.9998,3889.2913 l -180,250 L -2.4414063e-4,219.29134 l 0,-220.00000142 c -68.33333485937,0 273.33333414063,0 205.00000414063,0 z"
@@ -2006,7 +2137,7 @@
        id="path5843"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00a1b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#00a1b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter8432)"
        d="m 4754.9998,-0.70866142 975,1089.99996142 795,-1089.99996142 z"
        id="path6220"
        inkscape:connector-curvature="0" />
@@ -2036,12 +2167,12 @@
        id="path6231"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#00a1b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="fill:#00a1b3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter9176)"
        d="M -2.4414063e-4,4469.2913 1154.9998,3054.2913 l 2325,2615 -3480.00004414063,0 z"
        id="path6233"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#e9ef4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="fill:#e9ef4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter9056)"
        d="M -2.4414063e-4,1769.2913 1154.9998,3054.2913 -2.4414063e-4,4469.2913 Z"
        id="path6235"
        inkscape:connector-curvature="0" />
@@ -2050,7 +2181,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Main panel"
-     style="display:none">
+     style="display:inline">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4527"
@@ -2432,7 +2563,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Right panel"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5835)"
        id="rect3353-3"
@@ -2558,7 +2689,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Left panel"
-     style="display:none">
+     style="display:inline">
     <rect
        style="display:inline;fill:#f5f5f5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.07083213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5871)"
        id="rect3353"
@@ -2687,7 +2818,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Car"
-     style="display:none">
+     style="display:inline">
     <g
        id="g4948"
        style="display:inline;opacity:0.97000002"
@@ -2959,7 +3090,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Flowchart"
-     style="display:none">
+     style="display:inline">
     <rect
        style="opacity:0.98999999;fill:#f5f5f5;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter5723)"
        id="rect4505"
