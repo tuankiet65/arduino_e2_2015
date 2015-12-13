@@ -1011,11 +1011,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="4472.7874"
-     inkscape:cy="3634.9247"
+     inkscape:zoom="1"
+     inkscape:cx="4314.4478"
+     inkscape:cy="404.68828"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1026,7 +1026,11 @@
      showguides="false"
      showborder="true"
      inkscape:showpageshadow="false"
-     borderlayer="false">
+     borderlayer="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid4152"
@@ -2031,36 +2035,9 @@
        y="4701.9468" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4528-7-0"
-       transform="translate(3036.8951,403.41118)"><flowRegion
-         id="flowRegion4530-2-9"><use
-           x="0"
-           y="0"
-           xlink:href="#rect4521"
-           id="use4532-9-4"
-           width="100%"
-           height="100%"
-           transform="translate(-3036.8951,-403.41118)" /></flowRegion><flowPara
-         id="flowPara4534-7-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Robot di chuyển tới địa điểm giao hàng</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4537"
-       transform="translate(-5.6568541,350.72495)"><flowRegion
-         id="flowRegion4539"><use
-           x="0"
-           y="0"
-           xlink:href="#rect4521-5"
-           id="use4541"
-           transform="translate(5.6568541,-350.72495)"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4543">Robot di chuyển tới địa điểm giao hàng</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4545"
-       transform="matrix(1.027763,0,0,1.027763,-99.748554,287.23761)"><flowRegion
+       transform="matrix(1.027763,0,0,1.027763,-111.74855,335.23761)"><flowRegion
          id="flowRegion4547"><use
            x="0"
            y="0"
@@ -2070,20 +2047,35 @@
            height="100%"
            transform="matrix(0.97298696,0,0,0.97298696,97.054043,-279.47845)" /></flowRegion><flowPara
          id="flowPara4551"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Robot ở vị trí sẵn sàng để giao hàng</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3121.8862,4854.725 389.7638,0 0,-35.4331 70.8661,106.2993 -70.8661,70.8661 0,-35.4331 -389.7638,0 0,-106.2992"
-       id="path4555"
+       d="m 3153.5431,4890.3307 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
+       id="path4796"
        inkscape:connector-curvature="0" />
-    <path
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4545-9"
+       transform="matrix(1.0800045,0,0,1.0800045,1304.1172,50.013735)"><flowRegion
+         id="flowRegion4547-7"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4521"
+           id="use4549-5"
+           width="100%"
+           height="100%"
+           transform="matrix(0.97298696,0,0,0.97298696,97.054043,-279.47845)" /></flowRegion><flowPara
+         id="flowPara4551-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle">Robot tự động di chuyển tới nơi giao hàng</flowPara></flowRoot>    <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4615.58,4857.398 389.7638,0 0,-35.4331 70.8661,106.2993 -70.8661,70.8661 0,-35.4331 -389.7638,0 0,-106.2992"
-       id="path4555-4"
+       d="m 4642.6095,4890.2718 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
+       id="path4796-5"
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 5492.4688,5138.1896 0,212.5984 -1807.0866,0 -1027.559,0 0,-141.7323 70.8661,0 -141.7323,-70.8661 -141.7322,70.8661 70.8661,0 0,212.5984 3153.5433,0 0,-283.4645 -70.8662,-35.4331 z"
-       id="path4572"
-       inkscape:connector-curvature="0" />
+       d="m 5669.5169,5138.5516 1.0293,175.8232 -3013.0661,0.5858 0,-70.8661 70.8661,0 -106.2992,-106.2992 -106.2992,106.2992 69.8358,1.6616 0,141.7323 3153.6211,-34.726 0.2929,-214.9937 -70.1852,0.7071"
+       id="path4837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
   </g>
 </svg>
