@@ -1608,11 +1608,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="2229.1616"
-     inkscape:cy="1734.4301"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="3858.0939"
+     inkscape:cy="1696.3886"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer2"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -2709,7 +2709,7 @@
        y="4606.2993" />
     <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        id="flowRoot4545"
        transform="matrix(1.027763,0,0,1.027763,-111.74855,405.23761)"><flowRegion
          id="flowRegion4547"><use
@@ -2720,8 +2720,8 @@
            width="100%"
            height="100%"
            transform="matrix(0.97298696,0,0,0.97298696,97.054043,-279.47845)" /></flowRegion><flowPara
-         id="flowPara4551"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:97.29869843px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;"
+         id="flowPara4881">Robot nhận hàng ở điểm nhận hàng</flowPara></flowRoot>    <path
        style="fill:#37474f;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 3119.5431,4858.3307 318.8976,0 0,-70.8661 106.2992,106.2992 -106.2992,106.2992 0,-70.8661 -318.8976,0 z"
        id="path4796"
@@ -2748,7 +2748,7 @@
            id="use5577"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="flowPara5579">Robot tự động di chuyển tới nơi giao hàng theo hiệu lệnh người điều khiển</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2761,6 +2761,6 @@
            id="use5577-3"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:100px;font-family:Lato;-inkscape-font-specification:Lato;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1"
          id="flowPara5579-4">Robot trở về vị trí nhận hàng sau khi có tín hiệu đã bốc hàng xong</flowPara></flowRoot>  </g>
 </svg>
