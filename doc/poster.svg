@@ -19,8 +19,8 @@
    inkscape:version="0.91 r"
    sodipodi:docname="poster.svg"
    inkscape:export-filename="E:\bitmap.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-xdpi="11.043478"
+   inkscape:export-ydpi="11.043478">
   <defs
      id="defs4">
     <linearGradient
@@ -1020,11 +1020,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="4226.6856"
-     inkscape:cy="1708.9255"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="4042.2268"
+     inkscape:cy="2193.244"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showgrid="true"
      units="m"
      inkscape:window-width="1366"
@@ -1316,7 +1316,7 @@
          id="tspan4350-4"
          x="4581.4282"
          y="2509.5405"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Cảm biến siêu âm</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:'Lato Bold';fill:#ffffff">Cảm biến dò line hồng ngoại</tspan></text>
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:100px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1493,6 +1493,19 @@
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4199-7-7"
+       transform="matrix(0.89841266,0,0,0.89866628,6328.189,2398.7076)"><flowRegion
+         id="flowRegion4201-1-3"><use
+           x="0"
+           y="0"
+           xlink:href="#rect3353"
+           id="use4203-6-9"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.29171753px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
+         id="flowPara4788">Thời gian phát triển ngắn hạn nên nhóm chỉ mới phát triển được sản phẩm với các chức năng cơ bản như trên. Trong tương lai, nhóm có thể phát triển sản phẩm bằng cách thêm hệ thống cơ (tay nâng) để tự bốc dỡ hàng, thiết kế lại và tối ưu hóa kết cấu khung xe để tăng tải trọng và thẩm mĩ</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4199-6"
        transform="matrix(0.93706225,0,0,0.93732678,6294.6077,677.96437)"><flowRegion
          id="flowRegion4201-19"><use
@@ -1516,22 +1529,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.28712463px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
-         id="flowPara4250">Đề tài đã thực hiện chế tạo thành công một sản phẩm robot có chức năng vận chuyển hàng tự động, đảm bảo các chức năng cơ bản như: đi đúng đường, đưa được hàng đến đúng vị trí, nhận biết được vật cản để tránh va chạm.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4199-7-7"
-       transform="matrix(0.86787162,0,0,0.86811662,6346.6143,2555.0578)"><flowRegion
-         id="flowRegion4201-1-3"><use
-           x="0"
-           y="0"
-           xlink:href="#rect3353"
-           id="use4203-6-9"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.20815277px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
-         id="flowPara4790">Do thời gian phát triển ngắn nên robot vẫn chưa thực sự hoàn chỉnh và robot vẫn chưa có hệ thống nâng dỡ hàng. Trong tương lai, chúng tôi sẽ tiếp tục phát triển, bổ sung hệ thống nâng dỡ hàng và tối ưu hóa khung xe để tăng trọng tải.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:115.20815277px;font-family:Lato;-inkscape-font-specification:Lato;text-align:justify;text-anchor:start"
-         id="flowPara4788" /></flowRoot>    <rect
+         id="flowPara4250">Đề tài đã thực hiện chế tạo thành công một sản phẩm robot có chức năng vận chuyển hàng tự động, đảm bảo các chức năng cơ bản như: đi đúng đường, đưa được hàng đến đúng vị trí, nhận biết được vật cản để tránh va chạm.</flowPara></flowRoot>    <rect
        style="fill:#37474f;fill-opacity:1;stroke-width:35.43307114;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect5817"
        width="1629.9213"
@@ -1968,26 +1966,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3447.3069"
-       y="2303.1497"
+       x="3422.3428"
+       y="2279.6497"
        id="text4764"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4766"
-         x="3447.3069"
-         y="2303.1497"
+         x="3422.3428"
+         y="2279.6497"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:Lato">Mặt trên của xe</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3372.4722"
-       y="4022.8032"
+       x="3353.2183"
+       y="3991.3254"
        id="text4764-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4766-1"
-         x="3372.4722"
-         y="4022.8032"
+         x="3353.2183"
+         y="3991.3254"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Lato;-inkscape-font-specification:Lato">Mặt dưới của xe</tspan></text>
   </g>
   <g
@@ -1996,7 +1994,7 @@
      inkscape:label="Flowchart"
      style="display:inline">
     <rect
-       style="fill:#f5f5f5;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#f5f5f5;fill-opacity:1;stroke-width:4.19999981;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.99"
        id="rect4505"
        width="4251.9683"
        height="1311.0236"
