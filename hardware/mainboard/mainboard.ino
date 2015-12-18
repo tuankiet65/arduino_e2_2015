@@ -3,6 +3,7 @@
 #define I2C_SET_SPEED 17
 #define I2C_SUCCESS 18
 #define I2C_FAIL 19
+
 void setup(){
 	Serial.begin(9600);
 	lineSensorInit();
@@ -15,6 +16,6 @@ void setup(){
 	interfaceRunSetup();
 }
 
-void loop(){
+void loop(){	
 	mainInterface();
 }

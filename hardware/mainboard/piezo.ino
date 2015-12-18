@@ -1,4 +1,4 @@
-#define PIEZO_PIN 5
+#define PIEZO_PIN 2
 #define ERROR_FREQ 500
 #define OKAY_FREQ 500
 #define ERROR_DURA 500

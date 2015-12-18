@@ -156,9 +156,9 @@ unsigned char interfaceSetSpeed(unsigned char *speed, unsigned char ir_result){
 }
 
 void interfaceRunSetup(){
-	EEPROMSetSpeed(200);
+	EEPROMSetSpeed(222);
 	unsigned char ir_result, speed=EEPROMGetSpeed(), hasFinished=0;
-	unsigned long uid, initialUid, currTime, lastUid;
+	unsigned long uid, initialUid, currTime, lastUid, count=0;
 	char name[13]={0};
 	LCDMessage("Setup required", "Press any key");
 	while (!IRRemoteReceive(&ir_result) || ir_result==255);
@@ -174,7 +174,7 @@ void interfaceRunSetup(){
 	while (!hasFinished){
 		motorI2CSendCommand(I2C_SET_DIRECTION, lineSensorRead());
 		currTime=millis();
-		while (millis()-currTime<200){
+		while (millis()-currTime<100){
 			if (ultrasoundHasObstacle()){
 				motorI2CSendCommand(I2C_SET_SPEED, 0);
 				LCDMessage("Obstacle", "detected");
@@ -194,7 +194,7 @@ void interfaceRunSetup(){
 			if (RFIDGetCardUID(&uid)){
 				if (uid==initialUid || uid!=lastUid){
 					motorI2CSendCommand(I2C_SET_SPEED, 0);
-					if (uid==initialUid)
+					if (uid==initialUid || count!=0)
 						hasFinished=1;
 					else {
 						lastUid=uid;
@@ -202,6 +202,7 @@ void interfaceRunSetup(){
 						EEPROMAddDest(uid, name);
 						LCDMessage("Discovering...");
 						interfaceSetSpeed(&speed, 255);
+						count++;
 					}
 				}
 			}
@@ -303,7 +304,7 @@ void mainInterface(){
 }
 
 void move(struct destStruct dest){
-	unsigned char speed=EEPROMGetSpeed(), ir_result, hasFinished=0	;
+	unsigned char speed=EEPROMGetSpeed(), ir_result, hasFinished=0;
 	unsigned long uid;
 	LCDMessage("Moving...");
 	motorI2CSendCommand(I2C_SET_DIRECTION, M_FORWARD);

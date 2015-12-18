@@ -30,7 +30,7 @@ void motorInit() {
 
 void motorSetSpeed(unsigned char speed) {
 	analogWrite(M_ENA, speed);
-	analogWrite(M_ENB, speed);
+	analogWrite(M_ENB, speed-30);
 }
 
 void motorMove(unsigned char motor, unsigned char direction) {

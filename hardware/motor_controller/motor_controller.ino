@@ -55,7 +55,8 @@ void i2cCommandHandler(int numBytes) {
 			motorSetDirection(M_BACKWARD);
 			break;
 		default:
-			Serial.println(F("Received I2C_SET_DIRECTION with invalid param"));
+			Serial.print(F("Received I2C_SET_DIRECTION with invalid param "));
+			Serial.println(param);
 			setResult(request, I2C_FAIL);
 			return;
 			break;
